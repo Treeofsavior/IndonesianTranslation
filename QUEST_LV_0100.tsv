@@ -1,7 +1,7 @@
 QUEST_LV_0100_20150317_000001	Sentinel
-QUEST_LV_0100_20150317_000002	If you choose to go to Klaipeda, I recommend taking the Shadow Forest Road.{nl}The deep woods are dangerous, so try to stay away from there if you can.
-QUEST_LV_0100_20150317_000003	Man in Hiding
-QUEST_LV_0100_20150317_000004	F-Finally...! Has help arrived?{nl}Huh?! It's just a kid? Hey... Are there still Vubbes outside?
+QUEST_LV_0100_20150317_000002	Kalau kamu mau ke Klaipeda, kusarankan lewat Shadow Forest Road.{nl}Hutan yang dalam itu berbahaya, jadi kalau bisa hindarilah tempat itu.
+QUEST_LV_0100_20150317_000003	Pria yang Bersembunyi
+QUEST_LV_0100_20150317_000004	A… akhirnya…! Apakah bantuan sudah datang?{nl}Huh?! Anak kecil? Hei… apa Vubbe masih ada di luar?
 QUEST_LV_0100_20150317_000005	Ugh. Go away! Don't talk to me! We'll get caught by the Vubbes!{nl}This is my place so leave!
 QUEST_LV_0100_20150317_000006	What? Don't lie to me! I can smell the Vubbes from here.{nl}You can't fool an adult! Go away! Do not come near this barrel!
 QUEST_LV_0100_20150317_000007	F-Finally...! Has help arrived?{nl}Huh?! It's just a kid? What are you looking at? Close the lid and move along!{nl}
@@ -134,7 +134,7 @@ QUEST_LV_0100_20150317_000133	Mercenary Glen
 QUEST_LV_0100_20150317_000134	So many researchers are disappearing these days.{nl}I'm trying to find clues by defeating some Sauga. Can you help us?
 QUEST_LV_0100_20150317_000135	The Saugas split their loot fairly among themselves.{nl}Maybe we can find some clues from them.
 QUEST_LV_0100_20150317_000136	Fortunately they are very old.{nl}So that means these cases are not due to monsters.
-QUEST_LV_0100_20150317_000137	This place is very dangerous; many have gone missing due to monsters or missteps.{nl}However, that is not what interests me.{nl}
+QUEST_LV_0100_20150317_000137	"This place is very dangerous; many have gone missing due to monsters or missteps.{nl}However, that is not what interests me.{nl}"
 QUEST_LV_0100_20150317_000138	When those people disappeared, no one close to them noticed.{nl}It's as if memories about those who disappeared are erased. Interesting, isn't it?{nl}
 QUEST_LV_0100_20150317_000139	Please defeat all monsters nearby to prevent anything from happening.{nl}There were reports that the monsters at the 1st Architects' Site had turned violent.
 QUEST_LV_0100_20150317_000140	Splendid.{nl}We will be safe for now.
@@ -5273,7 +5273,7 @@ QUEST_LV_0100_20150317_005272	Rexipher disappeared with Zachariel's clues. Go to
 QUEST_LV_0100_20150317_005273	Liaison Officer Bale says he doesn't know Historian Rexipher. Ask the other historians for his whereabouts.
 QUEST_LV_0100_20150317_005274	Historian Colin says he doesn't know Rexipher, either. Ask other historians for Rexipher's whereabouts.
 QUEST_LV_0100_20150317_005275	Ask Cyrenia Odell for Rexipher's Whereabouts
-QUEST_LV_0100_20150317_005276	Rexipher took all of Zachariel's clues; you must find him, no matter what. Ask about him again. 
+QUEST_LV_0100_20150317_005276	"Rexipher took all of Zachariel's clues; you must find him, no matter what. Ask about him again. "
 QUEST_LV_0100_20150317_005277	Trace Rexipher's whereabouts
 QUEST_LV_0100_20150317_005278	You were not able to find Rexipher's whereabouts, but you found out that Rexipher is a demon's name. Continue investigating Rexipher. 
 QUEST_LV_0100_20150317_005279	Go to the Chesed Altar where Rexipher is attacking
@@ -6759,7 +6759,7 @@ QUEST_LV_0100_20150428_006758	Looks like this necklace and collection belongs to
 QUEST_LV_0100_20150428_006759	Let's give up on this and move to the Large Transport Magic Circle at the center of this floor {nl}instead.
 QUEST_LV_0100_20150428_006760	This isn't the first time that the demons have attacked the tower, but the attacks never lasted this {nl}long. Because of this, they say that Gabija has disappeared.
 QUEST_LV_0100_20150428_006761	That was a trap.{nl}It seems they read our every move.{nl}
-QUEST_LV_0100_20150428_006762	There's nothing we can do about it.{nl}Even it would be little late, let's give up on the magic corc;e and destroy those monsters who are coming into the tower first.
+QUEST_LV_0100_20150428_006762	"There's nothing we can do about it.{nl}Even it would be little late, let's give up on the magic corc;e and destroy those monsters who are coming into the tower first."
 QUEST_LV_0100_20150428_006763	The Defensive Barrier Device is at the left end of this hallway.{nl}Let's go upstairs as soon as we activate the device.
 QUEST_LV_0100_20150428_006764	The Defensive Barrier Device is at the left end of this hallway.{nl}It still seems okay.
 QUEST_LV_0100_20150428_006765	That'll do!{nl}Let's hope there won't be as many monsters now.{nl}
@@ -9790,7 +9790,7 @@ QUEST_LV_0100_20151016_009789	I thought the object contained some special power 
 QUEST_LV_0100_20151016_009790	And when we arrived at the living quarter, I checked the area with the monocle again.{nl}I sensed some great energy. Remember that as well?{nl}
 QUEST_LV_0100_20151016_009791	At the time, you said only an old manager was there.{nl}
 QUEST_LV_0100_20151016_009792	That old manager... I don't know what is going on.{nl}You heard him right? He said he is the Premier Eminent who should have died 600 years ago!
-QUEST_LV_0100_20151016_009793	The whole shenanigan of making the certificate.{nl}What did he say? "Overwhelm my withered body", my behind!{nl}
+QUEST_LV_0100_20151016_009793	"The whole shenanigan of making the certificate.{nl}What did he say? ""Overwhelm my withered body"", my behind!{nl}"
 QUEST_LV_0100_20151016_009794	There are many old mages and clerics. What about them, eh?{nl}He only said those things to cover something up!{nl}
 QUEST_LV_0100_20151016_009795	Something was not well with the spirits, also! {nl}Why would they be so enraged against him, if he was a good man?{nl}
 QUEST_LV_0100_20151016_009796	I do sense something foul is going on.{nl}There must be something we are not seeing straight.
@@ -11128,13 +11128,13 @@ QUEST_LV_0100_20151102_011127	Defeat monsters and obtain spiritual energy
 QUEST_LV_0100_20151102_011128	The Linker Master is currently working on advancing Linker's magic by finding a connection other than a spiritual one. Help with Linker Master's study and fill up Soul Flask with the monsters by defeating them so that Linkers may become stronger.
 QUEST_LV_0100_20151102_011129	Talk to the Thaumaturge Submaster
 QUEST_LV_0100_20151102_011130	Talk to the Thaumaturge Submaster in Orsha.
-QUEST_LV_0100_20151102_011131	Defeat monsters of all sizes; small, medium and large
-QUEST_LV_0100_20151102_011132	The Thaumaturge Submaster says an aspiring Thaumaturge must be able to handle monsters of all sizes. Defeat monsters of all sizes; small, medium and large.
+QUEST_LV_0100_20151102_011131	"Defeat monsters of all sizes; small, medium and large"
+QUEST_LV_0100_20151102_011132	"The Thaumaturge Submaster says an aspiring Thaumaturge must be able to handle monsters of all sizes. Defeat monsters of all sizes; small, medium and large."
 QUEST_LV_0100_20151102_011133	Report to the Thaumaturge Submaster
 QUEST_LV_0100_20151102_011134	Return to the Thaumaturge Submaster.
 QUEST_LV_0100_20151102_011135	Talk to the Elementalist Master in Orsha.
 QUEST_LV_0100_20151102_011136	Defeat monsters with properties of fire, ice, electricity and earth
-QUEST_LV_0100_20151102_011137	The Elementalist Master says to be able to proficiently use the magic of an Elementalist, one must capable of adapting to the enemy's property. Defeat monsters of all properties; fire, ice, electricity and earth.
+QUEST_LV_0100_20151102_011137	"The Elementalist Master says to be able to proficiently use the magic of an Elementalist, one must capable of adapting to the enemy's property. Defeat monsters of all properties; fire, ice, electricity and earth."
 QUEST_LV_0100_20151102_011138	Return to the Elementalist Master.
 QUEST_LV_0100_20151102_011139	Defeat demons in the Carlyle's Mausoleum
 QUEST_LV_0100_20151102_011140	The Ranger Submaster says that an on-site training is the best to determine one's aptitude. Defeat demons in the Carlyle's Mausoleum and prove your worth.
@@ -11430,7 +11430,7 @@ QUEST_LV_0100_20151224_011429	A charming crossbow, I must say. {nl}Alright, I mu
 QUEST_LV_0100_20151224_011430	Learning itself is not too difficult so come to me any time.
 QUEST_LV_0100_20151224_011431	The time has come for you to learn the advanced magic of Wizards.{nl}You cannot learn new magic all by yourself.{nl}
 QUEST_LV_0100_20151224_011432	Sometimes, the answer comes much quicker, if you ask around for advice.
-QUEST_LV_0100_20151224_011433	Some might say: "Too many cooks spoil the broth." {nl}You can't have too many advice.{nl}
+QUEST_LV_0100_20151224_011433	"Some might say: ""Too many cooks spoil the broth."" {nl}You can't have too many advice.{nl}"
 QUEST_LV_0100_20151224_011434	Did it help?{nl}Hmm, your enlightened eyes tells me yes.{nl}
 QUEST_LV_0100_20151224_011435	All good. {nl}I will help you as far as I can. Hope you could do the same.
 QUEST_LV_0100_20151224_011436	At this stage, what you need to do is to improve your fire energy.{nl}For me, it's nothing at all but for you, some help would be necessary.{nl}
@@ -11600,7 +11600,7 @@ QUEST_LV_0100_20151224_011599	Goddesses, humans, and Demon Goddesses...{nl}What 
 QUEST_LV_0100_20151224_011600	If you're heading south, you can help Merrisa or Margellius.{nl}Even for a veteran, the monsters in this neighborhood are something else.
 QUEST_LV_0100_20151224_011601	Will you put up this bulletin board on Kluibe Road, then?{nl}Merrisa is looking for holy relics, you see.{nl}
 QUEST_LV_0100_20151224_011602	Merrisa
-QUEST_LV_0100_20151224_011603	Ink made from Infroburk's body fluid is best because it lasts longer.{nl}I'm going to give you a trap; you collect the Infroburk body fluid.
+QUEST_LV_0100_20151224_011603	"Ink made from Infroburk's body fluid is best because it lasts longer.{nl}I'm going to give you a trap; you collect the Infroburk body fluid."
 QUEST_LV_0100_20151224_011604	Just place the trap in front of an Infroburk.{nl}When it steps on it and gets caught, you'll be able to collect its body fluid.{nl}
 QUEST_LV_0100_20151224_011605	Go to the Drose Empty Lot and set up the trap
 QUEST_LV_0100_20151224_011606	Alina... Grazina...{nl}Please let them be safe...
@@ -11643,7 +11643,7 @@ QUEST_LV_0100_20151224_011642	Oh... Rose asked you to come find me...{nl}It seem
 QUEST_LV_0100_20151224_011643	Laswi always protected me from the demons...{nl}And now she found me all the way here, she's really one of a kind.{nl}
 QUEST_LV_0100_20151224_011644	You said our people are at the Herb Gatherers' Cabin, right?{nl}I'm tired now. I'm going back to Orsha with them.{nl}
 QUEST_LV_0100_20151224_011645	I'm worried about the people of Rose's village too, but what can we do?{nl}Migration order or not, they're probably heading to Orsha.
-QUEST_LV_0100_20151224_011646	My colleagues are safe!{nl}I'm so glad to see them again; it's all thanks to you.{nl}
+QUEST_LV_0100_20151224_011646	"My colleagues are safe!{nl}I'm so glad to see them again; it's all thanks to you.{nl}"
 QUEST_LV_0100_20151224_011647	I wonder if I should go to Knidos Jungle by myself and look for my village's people now.{nl}I can't keep dragging my colleagues into something that concerns my hometown.{nl}
 QUEST_LV_0100_20151224_011648	Thank you for rescuing my colleagues. I should go now... {nl}Please pray for me so I can find the people of my hometown.
 QUEST_LV_0100_20151224_011649	Traveling Merchant Andres
@@ -11671,7 +11671,7 @@ QUEST_LV_0100_20151224_011670	Tales...? Oh, the one who always found me rare her
 QUEST_LV_0100_20151224_011671	You said the wounds are swollen, hot and discolored?{nl}If the Ronjia Grass doesn't work, then he must be affected by evil energy.
 QUEST_LV_0100_20151224_011672	I think the Cleric Submaster in Orsha might be able to help.{nl}I once helped her get some herbs.{nl}
 QUEST_LV_0100_20151224_011673	Tell her about my symptoms.{nl}My wounds are swollen, hot and now they're turning purple...
-QUEST_LV_0100_20151224_011674	His condition is only expected to get worse with time.{nl}I'm going to give you some medicine to purify the evil energy in his body; please give it to Tales.
+QUEST_LV_0100_20151224_011674	"His condition is only expected to get worse with time.{nl}I'm going to give you some medicine to purify the evil energy in his body; please give it to Tales."
 QUEST_LV_0100_20151224_011675	Give it him as soon as possible.{nl}The longer you wait, the more the evil energy will spread.
 QUEST_LV_0100_20151224_011676	The medicine you brought seems to be working. {nl}My temperature should start to lower, too.{nl}
 QUEST_LV_0100_20151224_011677	I thought I was about to return to the goddesses like this...{nl}You really saved my life.
@@ -11724,7 +11724,7 @@ QUEST_LV_0100_20151224_011723	I saw a human-looking wizard give orders to the de
 QUEST_LV_0100_20151224_011724	I didn't recognize it before but...{nl}These are Aconites.{nl}
 QUEST_LV_0100_20151224_011725	They're medicinal, but deadly when consumed in large doses.{nl}I wonder why they want this...
 QUEST_LV_0100_20151224_011726	The demons may scare me, but as a herb gatherer I can't let this go.{nl}I think it's best to destroy all the Aconites.
-QUEST_LV_0100_20151224_011727	Go and collect some Loktanun fluid.{nl}It's very acidic; it wil dry out the Aconites if you spray them with it.
+QUEST_LV_0100_20151224_011727	"Go and collect some Loktanun fluid.{nl}It's very acidic; it wil dry out the Aconites if you spray them with it."
 QUEST_LV_0100_20151224_011728	The demons may be scary...{nl}But I won't let them get away with this.{nl}
 QUEST_LV_0100_20151224_011729	Thank you.{nl}This should be enough.
 QUEST_LV_0100_20151224_011730	It's a shame to waste all the Aconites, but there's no way the demons will put it to good use.{nl}You can go back to the Neneva Yard and spray the demon fluid all around.
@@ -11796,7 +11796,7 @@ QUEST_LV_0100_20151224_011795	This faint magic circle... It's made to react only
 QUEST_LV_0100_20151224_011796	Some Green Apparition Essences should suffice. {nl}Meanwhile I'll have a look at the circle.
 QUEST_LV_0100_20151224_011797	A few days ago...{nl}The monastery was ambushed by demons and, unable to resist, I ended up in their hands.{nl}
 QUEST_LV_0100_20151224_011798	After Medzio Diena, maintaining the monastery has been no easy task.{nl}Apart from me and few other brothers, there was no one left in the monastery, you see.{nl}
-QUEST_LV_0100_20151224_011799	The demons kept every single one of us locked inside the annex.{nl}We didn't know the demons' demands or their reasoning; all we could do was pray.{nl}
+QUEST_LV_0100_20151224_011799	"The demons kept every single one of us locked inside the annex.{nl}We didn't know the demons' demands or their reasoning; all we could do was pray.{nl}"
 QUEST_LV_0100_20151224_011800	A few brothers were dragged outside one by one... they never came back.{nl}When only three of us were left, the demons came for me and locked me in this Reading Room.{nl}
 QUEST_LV_0100_20151224_011801	Then... they brought in people of the Croa Village.{nl}Just like before, they started to come for and take them one by one.
 QUEST_LV_0100_20151224_011802	Just as my turn was coming... that's when you saved me.{nl}
@@ -11946,7 +11946,7 @@ QUEST_LV_0100_20151224_011945	Usually I wouldn't have any trouble clearing out t
 QUEST_LV_0100_20151224_011946	You have been a lifesaver.{nl}With the goddesses gone, having you close has given me strength.
 QUEST_LV_0100_20151224_011947	I can handle the monsters once my body recovers but...{nl}I don't think I can take the demons left in the monastery yet.{nl}
 QUEST_LV_0100_20151224_011948	But it's not right for me to ask you to clear out all the demons here...{nl}It's a tricky situation.{nl}
-QUEST_LV_0100_20151224_011949	That's right. There is someone in Orsha called Dejamis who owes me a favor.{nl}She is the Wizard Submaster; will you go there and let her know about my situation?
+QUEST_LV_0100_20151224_011949	"That's right. There is someone in Orsha called Dejamis who owes me a favor.{nl}She is the Wizard Submaster; will you go there and let her know about my situation?"
 QUEST_LV_0100_20151224_011950	Wizard Submaster
 QUEST_LV_0100_20151224_011951	I know Edmundas very well.{nl}He would always find me rare herbs faster than anyone.{nl}
 QUEST_LV_0100_20151224_011952	What a terrible thing to happen to someone like him...
@@ -11969,7 +11969,7 @@ QUEST_LV_0100_20151224_011968	Experiments like the ones they did in the monaster
 QUEST_LV_0100_20151224_011969	I'm sure there will be traces of the experiments inside the monastery. {nl}Try and find any journals or anything the wizard might have left behind.
 QUEST_LV_0100_20151224_011970	It'll probably be hard to find evidence like experiment journals, {nl}but it's important that we tell people about it.
 QUEST_LV_0100_20151224_011971	Are these materials you found inside the Novaha Monastery?
-QUEST_LV_0100_20151224_011972	There might be more materials around that we still haven't found.{nl}But I won't keep asking you to go here; this time I'll try and find them myself.
+QUEST_LV_0100_20151224_011972	"There might be more materials around that we still haven't found.{nl}But I won't keep asking you to go here; this time I'll try and find them myself."
 QUEST_LV_0100_20151224_011973	Can I ask you for one last favor?{nl}When I was inside the wizard's memories, I saw the device used for breeding the bracken spores.
 QUEST_LV_0100_20151224_011974	As long as the device for breeding the spores is there, it will keep happening.{nl}This... This experiment can never happen again... Never.{nl}
 QUEST_LV_0100_20151224_011975	If the power sources are removed, the spores will die off.{nl}The thing is, if you don't do it in the right order, it will activate again.{nl}
@@ -11978,7 +11978,7 @@ QUEST_LV_0100_20151224_011977	I guess the mind control wasn't all too bad.{nl}Al
 QUEST_LV_0100_20151224_011978	No one will be trying this type of horrible experiment anymore.{nl}If they do, my brother and I are here to stop them.
 QUEST_LV_0100_20151224_011979	We need to disable this barrier so my brother and I can escape...{nl}But no matter how hard I try, it won't open.
 QUEST_LV_0100_20151224_011980	There has to be a way to free my brother around here.{nl}Will you look for it?
-QUEST_LV_0100_20151224_011981	We came to the Croa Village for Rose; a little more and the demons would've caught us.{nl}You would think they'd all gone to Orsha because of that migration order... Isn't it?
+QUEST_LV_0100_20151224_011981	"We came to the Croa Village for Rose; a little more and the demons would've caught us.{nl}You would think they'd all gone to Orsha because of that migration order... Isn't it?"
 QUEST_LV_0100_20151224_011982	Where are all the people of Rose's village?{nl}She's been so worried...
 QUEST_LV_0100_20151224_011983	The fear I felt being chased by the demons...{nl}It's not something I ever want to go through again. Not after Medzio Diena.
 QUEST_LV_0100_20151224_011984	Traveling Merchant Ales
@@ -13083,7 +13083,7 @@ QUEST_LV_0100_20151224_013082	I'll take care of Melchioras, you go and chase Del
 QUEST_LV_0100_20151224_013083	Fortunately Melchioras is still breathing.{nl}It could have been worse had we arrived later.
 QUEST_LV_0100_20151224_013084	To think he resorted to something so low...{nl}It's getting late. We should hurry now.
 QUEST_LV_0100_20151224_013085	I'm a Sadhu now, but I used to train with the Bokor Master.{nl}I made a shaman doll back then, if only I could put that in Melchioras' place right now...{nl}
-QUEST_LV_0100_20151224_013086	It's not impossible, though.{nl}Let me give you my shaman doll; defeat some demons and collect their spirits here.{nl}
+QUEST_LV_0100_20151224_013086	"It's not impossible, though.{nl}Let me give you my shaman doll; defeat some demons and collect their spirits here.{nl}"
 QUEST_LV_0100_20151224_013087	When you become a Bokor you start by making your own shaman doll.{nl}I just never thought I'd be using mine to save a life...
 QUEST_LV_0100_20151224_013088	Yane's suggestion sounds dangerous, but... I think we have no choice.{nl}I say we try that first while I try and think of other solutions.
 QUEST_LV_0100_20151224_013089	Thank you for saving me but...{nl}Right now you need to focus on... Delmore Rephaim...{nl}
@@ -13275,7 +13275,7 @@ QUEST_LV_0100_20151224_013274	But this I know for sure.{nl}Something big is happ
 QUEST_LV_0100_20151224_013275	You still can't find my grandfather?{nl}Sigh... If you do find him, make sure to bring him here.
 QUEST_LV_0100_20151224_013276	This is it, this disc.{nl}You know how the ground trembled earlier?{nl}
 QUEST_LV_0100_20151224_013277	The disc suddenly started glowing red so I followed it all the way here.{nl}I was chased away by monsters, but I clearly saw that it was pointing to something.{nl}
-QUEST_LV_0100_20151224_013278	I'm going to give the disc to you; will you check where it's pointing to?{nl}My friend here got hurt so we're going to head back together.
+QUEST_LV_0100_20151224_013278	"I'm going to give the disc to you; will you check where it's pointing to?{nl}My friend here got hurt so we're going to head back together."
 QUEST_LV_0100_20151224_013279	My friend got hurt trying to protect me so we should stick together.{nl}Please do me this favor.
 QUEST_LV_0100_20151224_013280	So the disc was pointing to this red statue? {nl}Hm... I've never seen this before.{nl}
 QUEST_LV_0100_20151224_013281	Let me take a closer look at it, then.{nl}Who knows what else I'll be able to find.{nl}
@@ -13398,7 +13398,7 @@ QUEST_LV_0100_20151224_013397	Hurry and go see the village chief.{nl}This is the
 QUEST_LV_0100_20151224_013398	It's a shame for the people in our village...{nl}If the goddesses aren't upset, then what is it?{nl}
 QUEST_LV_0100_20151224_013399	Ah, yes. You came.{nl}You're here to help me, yes?{nl}
 QUEST_LV_0100_20151224_013400	I knew they'd be like this.{nl}The ground shakes a little, they start to panic.{nl}Asking why I even bothered to come here and such. Eh...
-QUEST_LV_0100_20151224_013401	First, go see my granddaughter.{nl}I told her good things about you; I'm counting on you.
+QUEST_LV_0100_20151224_013401	"First, go see my granddaughter.{nl}I told her good things about you; I'm counting on you."
 QUEST_LV_0100_20151224_013402	Hey!{nl}Stop wandering around and run, now!{nl}This place is full of demons!
 QUEST_LV_0100_20151224_013403	I was running away from the demons in the Delmore Castle and ended up here.{nl}If you don't want them to get you, you need to run, now!
 QUEST_LV_0100_20151224_013404	I don't want to stay here either.{nl}I'm just going to rest for a while and leave right away.
@@ -13469,7 +13469,7 @@ QUEST_LV_0100_20151224_013468	Transmitting the energy of Karolis Springs
 QUEST_LV_0100_20151224_013469	I don't think it can be helped
 QUEST_LV_0100_20151224_013470	Talk about Mardas
 QUEST_LV_0100_20151224_013471	Where is this evil energy?
-QUEST_LV_0100_20151224_013472	That sounds dangerous; I'd rather not.
+QUEST_LV_0100_20151224_013472	"That sounds dangerous; I'd rather not."
 QUEST_LV_0100_20151224_013473	Eery Black Energy
 QUEST_LV_0100_20151224_013474	Setting the Namott of Suppression
 QUEST_LV_0100_20151224_013475	I don't think my skills are enough for that
@@ -13483,7 +13483,7 @@ QUEST_LV_0100_20151224_013482	I don't think so
 QUEST_LV_0100_20151224_013483	Who should I ask?
 QUEST_LV_0100_20151224_013484	That sounds frightening
 QUEST_LV_0100_20151224_013485	I'll come back next time, then
-QUEST_LV_0100_20151224_013486	That's too complicated; I quit
+QUEST_LV_0100_20151224_013486	"That's too complicated; I quit"
 QUEST_LV_0100_20151224_013487	I hate difficult things
 QUEST_LV_0100_20151224_013488	I'll be back in a second
 QUEST_LV_0100_20151224_013489	Test me again
@@ -13497,12 +13497,12 @@ QUEST_LV_0100_20151224_013496	If it can't be helped, then it can't be helped
 QUEST_LV_0100_20151224_013497	I don't think there's a need for that
 QUEST_LV_0100_20151224_013498	I'll give it a try
 QUEST_LV_0100_20151224_013499	Corpse Poison [Wugushi Advancement]
-QUEST_LV_0100_20151224_013500	I want to stop; it's too scary
+QUEST_LV_0100_20151224_013500	"I want to stop; it's too scary"
 QUEST_LV_0100_20151224_013501	I'll get ready and come back
 QUEST_LV_0100_20151224_013502	Trade Route Locked Chest
 QUEST_LV_0100_20151224_013503	A chest that has been locked.{nl}Defeat monsters in the area to obtain the key.
 QUEST_LV_0100_20151224_013504	Educational Materials of the Kedora Merchant Alliance (2)
-QUEST_LV_0100_20151224_013505	I'm running away; it's too dangerous
+QUEST_LV_0100_20151224_013505	"I'm running away; it's too dangerous"
 QUEST_LV_0100_20151224_013506	I'll help you find your colleagues
 QUEST_LV_0100_20151224_013507	I think it's best to get away from here
 QUEST_LV_0100_20151224_013508	About the merchants and the letter
@@ -13515,7 +13515,7 @@ QUEST_LV_0100_20151224_013514	It's best to escape to somewhere safe
 QUEST_LV_0100_20151224_013515	I'll go and find the herbs
 QUEST_LV_0100_20151224_013516	Tell the Cleric Master in Orsha about Herbalist Tales' symptoms
 QUEST_LV_0100_20151224_013517	Let's go back to Tales
-QUEST_LV_0100_20151224_013518	I'm worried about the demons; I'll check in on your people
+QUEST_LV_0100_20151224_013518	"I'm worried about the demons; I'll check in on your people"
 QUEST_LV_0100_20151224_013519	First, let's go to Orsha and ask around
 QUEST_LV_0100_20151224_013520	Let's try and find more beads
 QUEST_LV_0100_20151224_013521	I'm sure it'll be nothing
@@ -13526,7 +13526,7 @@ QUEST_LV_0100_20151224_013525	Let's wait until things cool down a little
 QUEST_LV_0100_20151224_013526	Exactly what is happening in the Croa Village?
 QUEST_LV_0100_20151224_013527	I'll ask later
 QUEST_LV_0100_20151224_013528	Frightened Herbalist
-QUEST_LV_0100_20151224_013529	There's too many demons; I can't do it
+QUEST_LV_0100_20151224_013529	"There's too many demons; I can't do it"
 QUEST_LV_0100_20151224_013530	Demon Herbalist (1)
 QUEST_LV_0100_20151224_013531	First we need to escape to somewhere safe
 QUEST_LV_0100_20151224_013532	Demon Herbalist (2)
@@ -13566,7 +13566,7 @@ QUEST_LV_0100_20151224_013565	I'm going to rest for a while
 QUEST_LV_0100_20151224_013566	I'll have a look in the vestry
 QUEST_LV_0100_20151224_013567	I'll find the backpack for you
 QUEST_LV_0100_20151224_013568	I'm sorry
-QUEST_LV_0100_20151224_013569	You stay put; I'll do it for you
+QUEST_LV_0100_20151224_013569	"You stay put; I'll do it for you"
 QUEST_LV_0100_20151224_013570	Getting some rest first will be better
 QUEST_LV_0100_20151224_013571	Destroy the testing facilities
 QUEST_LV_0100_20151224_013572	Go back to the village
@@ -13577,7 +13577,7 @@ QUEST_LV_0100_20151224_013576	What do I have to do?
 QUEST_LV_0100_20151224_013577	I'll collect some mucus for you
 QUEST_LV_0100_20151224_013578	We should consider there won't be any side effects to overloading the device
 QUEST_LV_0100_20151224_013579	I'll destroy the magic crystal
-QUEST_LV_0100_20151224_013580	Rose could be mentally affected; that's not right
+QUEST_LV_0100_20151224_013580	"Rose could be mentally affected; that's not right"
 QUEST_LV_0100_20151224_013581	I'll chase away the monsters at the Medie State Apartments
 QUEST_LV_0100_20151224_013582	I'll go see the Wizard Submaster
 QUEST_LV_0100_20151224_013583	I'll go later
@@ -13585,7 +13585,7 @@ QUEST_LV_0100_20151224_013584	Explaining about Rose and her brother
 QUEST_LV_0100_20151224_013585	Please tell me how
 QUEST_LV_0100_20151224_013586	I'll be back after I'm ready
 QUEST_LV_0100_20151224_013587	The Protective Barrier Crystal is completed.{nl}Go back to Edmundas and set it!
-QUEST_LV_0100_20151224_013588	I can help you; tell me more
+QUEST_LV_0100_20151224_013588	"I can help you; tell me more"
 QUEST_LV_0100_20151224_013589	Tell me more about it
 QUEST_LV_0100_20151224_013590	It's okay, just get some rest
 QUEST_LV_0100_20151224_013591	Where Did Everybody Go? (6)
@@ -13625,7 +13625,7 @@ QUEST_LV_0100_20151224_013624	I'll go right away
 QUEST_LV_0100_20151224_013625	I still have other things to do
 QUEST_LV_0100_20151224_013626	Can I help you with anything?
 QUEST_LV_0100_20151224_013627	Get some rest and be careful
-QUEST_LV_0100_20151224_013628	That's not for me; I have a weak stomach
+QUEST_LV_0100_20151224_013628	"That's not for me; I have a weak stomach"
 QUEST_LV_0100_20151224_013629	Thank you but I have to decline
 QUEST_LV_0100_20151224_013630	I'll get rid of the nest
 QUEST_LV_0100_20151224_013631	I'd rather not have to do anything dangerous
@@ -13699,7 +13699,7 @@ QUEST_LV_0100_20151224_013698	I have no time for that, sorry
 QUEST_LV_0100_20151224_013699	I'll go and look for it
 QUEST_LV_0100_20151224_013700	A New Plot
 QUEST_LV_0100_20151224_013701	I'm a Revelator
-QUEST_LV_0100_20151224_013702	I understand; I'm going somewhere safe
+QUEST_LV_0100_20151224_013702	"I understand; I'm going somewhere safe"
 QUEST_LV_0100_20151224_013703	Investigating the Protection Cast
 QUEST_LV_0100_20151224_013704	It'll be difficult for me to take part in that
 QUEST_LV_0100_20151224_013705	Okay
@@ -13710,7 +13710,7 @@ QUEST_LV_0100_20151224_013709	I'll help you next time
 QUEST_LV_0100_20151224_013710	Destroy the Magic Power Supply Device
 QUEST_LV_0100_20151224_013711	I'll set down the orbs
 QUEST_LV_0100_20151224_013712	Let's meet at Delmore Manor
-QUEST_LV_0100_20151224_013713	I can help you; what kind of information do you need me to gather?
+QUEST_LV_0100_20151224_013713	"I can help you; what kind of information do you need me to gather?"
 QUEST_LV_0100_20151224_013714	I don't think I'm skilled enough for that
 QUEST_LV_0100_20151224_013715	Relaying all information gathered
 QUEST_LV_0100_20151224_013716	That's unfortunate, but it can't be helped
@@ -13776,7 +13776,7 @@ QUEST_LV_0100_20151224_013775	I'll go and catch the Hydra
 QUEST_LV_0100_20151224_013776	You Can't Drink That
 QUEST_LV_0100_20151224_013777	I don't think I have time for that
 QUEST_LV_0100_20151224_013778	I'll help you so something like that doesn't happen again
-QUEST_LV_0100_20151224_013779	It's too dangerous; just hold on
+QUEST_LV_0100_20151224_013779	"It's too dangerous; just hold on"
 QUEST_LV_0100_20151224_013780	Waiting it out is definitely the best
 QUEST_LV_0100_20151224_013781	Check for requests at the Mercenary Post
 QUEST_LV_0100_20151224_013782	Check for requests at the Mercenary Post.
@@ -13944,7 +13944,7 @@ QUEST_LV_0100_20151224_013943	The box is locked and cannot be opened. Defeat nea
 QUEST_LV_0100_20151224_013944	You have obtained the key from the monsters. Try and open the locked box again.
 QUEST_LV_0100_20151224_013945	Defeat nearby monsters to obtain %s
 QUEST_LV_0100_20151224_013946	Put down Horacius' poison pot and collect some poison. The pot can only collect poison when there are monsters around.
-QUEST_LV_0100_20151224_013947	The pillar collapsed without even having been touched. It needs to be repaired; collect some viscous liquid from nearby Desert Chupacabras.
+QUEST_LV_0100_20151224_013947	"The pillar collapsed without even having been touched. It needs to be repaired; collect some viscous liquid from nearby Desert Chupacabras."
 QUEST_LV_0100_20151224_013948	Obtain %s from Desert Chupacabras
 QUEST_LV_0100_20151224_013949	Helping Gedas seems bound to get you some information on Albinas. Retrieve Gedas' research materials from nearby Ticens. If a Ticen can be checked using the Space Bar, it is probably carrying a lot more materials.
 QUEST_LV_0100_20151224_013950	Collect Flammable Powder
@@ -14016,18 +14016,18 @@ QUEST_LV_0100_20151224_014015	Deliver the medicine to Herbalist Tales
 QUEST_LV_0100_20151224_014016	The Cleric Submaster gave you a medicine that can purify evil energy. Deliver the medicine to Herbalist Tales.
 QUEST_LV_0100_20151224_014017	Where Did Everybody Go?
 QUEST_LV_0100_20151224_014018	Follow Traveling Merchant Rose to Knidos Jungle
-QUEST_LV_0100_20151224_014019	Rose wants to find the people of her village even if she has to do it alone, so she ran to Knidos Jungle. It's dangerous for her to go alone; follow her into the jungle.
+QUEST_LV_0100_20151224_014019	"Rose wants to find the people of her village even if she has to do it alone, so she ran to Knidos Jungle. It's dangerous for her to go alone; follow her into the jungle."
 QUEST_LV_0100_20151224_014020	Search in Croa Village to find out what happened
 QUEST_LV_0100_20151224_014021	Like Rose said, the residents of the Croa Village are nowhere to be seen. Search the village and find out what happened.
 QUEST_LV_0100_20151224_014022	They can't have moved, or there wouldn't be any household items left behind, and it wasn't an attack as there aren't any sings of struggle, only traces of something being dragged. Tell Rose.
 QUEST_LV_0100_20151224_014023	Rose looks discouraged, but she seems to have found something. Talk to Traveling Merchant Rose again.
 QUEST_LV_0100_20151224_014024	Follow the beads on the ground
-QUEST_LV_0100_20151224_014025	Rose says the beads belong to someone in the village called Anne, and that she would never leave them behind. It could be a lead; follow the trail beads on the ground.
+QUEST_LV_0100_20151224_014025	"Rose says the beads belong to someone in the village called Anne, and that she would never leave them behind. It could be a lead; follow the trail beads on the ground."
 QUEST_LV_0100_20151224_014026	The trail of beads ends here. Ask Traveling Merchant Rose what to do next.
 QUEST_LV_0100_20151224_014027	Look for more beads or other clues
 QUEST_LV_0100_20151224_014028	Traveling Merchant Rose believes there might be other beads nearby. Look around and search for more beads or other clues.
 QUEST_LV_0100_20151224_014029	Talk to the person who is hiding
-QUEST_LV_0100_20151224_014030	You have found someone hiding. They could be a village resident; try and talk to them.
+QUEST_LV_0100_20151224_014030	"You have found someone hiding. They could be a village resident; try and talk to them."
 QUEST_LV_0100_20151224_014031	Talk to Tess
 QUEST_LV_0100_20151224_014032	Tess is terrified because of the demons. Try and talk to her first.
 QUEST_LV_0100_20151224_014033	Tess was being chased by demons. Defeat the demons that chased her.
@@ -14230,7 +14230,7 @@ QUEST_LV_0100_20151224_014229	Traveling Merchant Rose believes she was able to r
 QUEST_LV_0100_20151224_014230	Rose seems devastated after hearing from Tess that her brother was taken to a different location. Talk to Traveling Merchant Rose.
 QUEST_LV_0100_20151224_014231	Rose is back to her senses after hearing your words of comfort. Talk to Rose about what to do next.
 QUEST_LV_0100_20151224_014232	Member Grazina feels at risk and wants you to deliver the objects hidden in the Astral Tower. Deliver Grazina's objects to Member Irmantas.
-QUEST_LV_0100_20151224_014233	Member Grazina needs you to find Member Alina. She says she saw her running South past Member Irmantas; head downwards and find Member Alina.
+QUEST_LV_0100_20151224_014233	"Member Grazina needs you to find Member Alina. She says she saw her running South past Member Irmantas; head downwards and find Member Alina."
 QUEST_LV_0100_20151224_014234	Tell Member Irmantas about the death of Member Alina and her objects.
 QUEST_LV_0100_20151224_014235	Demon Lord Hauberk needs his servants to help him defeat the demons chasing after him. To help Hauberk call his servants, disable the monsters and let Hauberk absorb them.
 QUEST_LV_0100_20151224_014236	Defeat Drapeliun
@@ -14253,7 +14253,7 @@ QUEST_LV_0100_20151224_014252	Settler Brophen taught you how to use Status Point
 QUEST_LV_0100_20151224_014253	Deliver Grass Leaf Ointment to Settler Layla
 QUEST_LV_0100_20151224_014254	Settler Brophen says Settler Layla might know where the mayor is. He also asked you to deliver some grass leaf ointment to her. On your way to the Temporary Settler Camp, go see Layla and give her the grass leaf ointment.
 QUEST_LV_0100_20151224_014255	Settler Layla says Mayor Romanas is headed to the Temporary Settler Camp. Go and talk to Mayor Romanas.
-QUEST_LV_0100_20151224_014256	Mayor Romanas believes in your talent and will make sure you're admitted into Orsha immediately. Officer Lutas is looking for you; go find him at the Orsha Migration Office.
+QUEST_LV_0100_20151224_014256	"Mayor Romanas believes in your talent and will make sure you're admitted into Orsha immediately. Officer Lutas is looking for you; go find him at the Orsha Migration Office."
 QUEST_LV_0100_20151224_014257	Officer Lutas is processing the settlers' entrance into Orsha but the task feels endless. Talk to Officer Lutas again.
 QUEST_LV_0100_20151224_014258	A Poata suddenly appeared at the entrance to Orsha and it's threatening the settlers! Defeat the Poata and make the entrance to Orsha safe again.
 QUEST_LV_0100_20151224_014259	You have defeated the Poata. Talk to Officer Lutas again.
@@ -14327,7 +14327,7 @@ QUEST_LV_0100_20151224_014326	Agent Moren is convinced there might be other clue
 QUEST_LV_0100_20151224_014327	Deliver to Agent Moren
 QUEST_LV_0100_20151224_014328	You have collected a good amount of clues. Bring them to Agent Moren.
 QUEST_LV_0100_20151224_014329	Imminent Danger
-QUEST_LV_0100_20151224_014330	Agent Moren thinks Priest Pranas might know something about the clues found here. Chaser Ulysses and Priest Pranas are traveling upwards; go and meet them.
+QUEST_LV_0100_20151224_014330	"Agent Moren thinks Priest Pranas might know something about the clues found here. Chaser Ulysses and Priest Pranas are traveling upwards; go and meet them."
 QUEST_LV_0100_20151224_014331	Investigate the Greate Stone Face Hill
 QUEST_LV_0100_20151224_014332	Priest Pranas instructed Chaser Ulysses to investigate, but he finds it difficult because of the monsters. Go and investigate the Greate Stone Face Hill for them.
 QUEST_LV_0100_20151224_014333	Read the Unknown Diary
@@ -14418,7 +14418,7 @@ QUEST_LV_0100_20151224_014417	Priest Pranas says he will enter Ashaq Underground
 QUEST_LV_0100_20151224_014418	There seems to be something wrong with Priest Pranas and the Chasers. Ask Priest Pranas about what happened.
 QUEST_LV_0100_20151224_014419	Priest Pranas is having difficulties moving due to an odd energy felt in the area. Talk to Priest Pranas again.
 QUEST_LV_0100_20151224_014420	Check the Torture Material Room
-QUEST_LV_0100_20151224_014421	Priest Pranas says he feels as if his body is being constricted. He did say the sensation felt stronger inside the Torture Material Room; go there and investigate.
+QUEST_LV_0100_20151224_014421	"Priest Pranas says he feels as if his body is being constricted. He did say the sensation felt stronger inside the Torture Material Room; go there and investigate."
 QUEST_LV_0100_20151224_014422	Defeat the incoming demons
 QUEST_LV_0100_20151224_014423	The idol inside the Torture Material Room is making the demons attack!
 QUEST_LV_0100_20151224_014424	Report to Priest Pranas on the Cursed Idol
@@ -14606,7 +14606,7 @@ QUEST_LV_0100_20151224_014605	You have decided to help Melchioras. Visit the spo
 QUEST_LV_0100_20151224_014606	Report to Mage Melchioras
 QUEST_LV_0100_20151224_014607	You have found the objects under the protection spell. Relay their location to Mage Melchioras.
 QUEST_LV_0100_20151224_014608	Talk to Revelator Mihail
-QUEST_LV_0100_20151224_014609	Melchioras is going to analyze the protection spell; meanwhile, talk to Revelator Mihail.
+QUEST_LV_0100_20151224_014609	"Melchioras is going to analyze the protection spell; meanwhile, talk to Revelator Mihail."
 QUEST_LV_0100_20151224_014610	Defeat demons and charge the Magic Concentration Orbs
 QUEST_LV_0100_20151224_014611	According to Mihail, they need more magic concentration orbs to blast the Magic Power Supply Device. Defeat demons to charge the orbs.
 QUEST_LV_0100_20151224_014612	Deliver to Revelator Mihail
@@ -14774,7 +14774,7 @@ QUEST_LV_0100_20151224_014773	Report the results to Samsonas
 QUEST_LV_0100_20151224_014774	Oddly enough, the offering caused nearby monsters to attack. Go to Samsonas right away and warn him about it before he makes his offering.
 QUEST_LV_0100_20151224_014775	Nikodemas is looking around apprehensively. Talk to Nikodemas.
 QUEST_LV_0100_20151224_014776	Find the Village Resident at the Drava Chapel Lot
-QUEST_LV_0100_20151224_014777	Nikodemas says someone from the village wandered off and hasn't been back since. It seems they were headed towards the Drava Chapel Lot; go and look for them there.
+QUEST_LV_0100_20151224_014777	"Nikodemas says someone from the village wandered off and hasn't been back since. It seems they were headed towards the Drava Chapel Lot; go and look for them there."
 QUEST_LV_0100_20151224_014778	Talk to Napalis
 QUEST_LV_0100_20151224_014779	You successfully defeated the monster that attacked from underwater. Ask Napalis if they are all right.
 QUEST_LV_0100_20151224_014780	Defeat Rocksodon
@@ -14833,7 +14833,7 @@ QUEST_LV_0100_20160310_014832	I heard a rumor that the Great King Zachariel eras
 QUEST_LV_0100_20160310_014833	I'm not sure if that is the reason but the Vubbes suddenly rushed out of the Crystal Mine.{nl}Those Vubbes took all the villagers they saw into the mines.{nl}
 QUEST_LV_0100_20160310_014834	That portal is a gate to lies.{nl}Laima has brought you to me because of that.
 QUEST_LV_0100_20160310_014835	After Medzio Diena, maintaining the monastery has been no easy task.{nl}Apart from me and few other brothers, there was no one left in the monastery, you see.{nl}
-QUEST_LV_0100_20160310_014836	The demons kept every single one of us locked inside the annex.{nl}We didn't know the demons' demands or their reasoning; all we could do was pray.{nl}
+QUEST_LV_0100_20160310_014836	"The demons kept every single one of us locked inside the annex.{nl}We didn't know the demons' demands or their reasoning; all we could do was pray.{nl}"
 QUEST_LV_0100_20160310_014837	They say that there are barely any intact cities left in the kingdom.{nl}All because of Medzio Diena four years ago... It's a real shame.{nl}
 QUEST_LV_0100_20160310_014838	On Medzio Diena, it was a nightmare because of the earthquake.{nl}It was still easier to get by back then than it is now...{nl}
 QUEST_LV_0100_20160310_014839	And after the Kruvina device, my condition isn't the best either...{nl}If that's okay with you, will you help us set up the barricade?
@@ -14871,7 +14871,7 @@ QUEST_LV_0100_20160323_014870	I built a few good hundreds of them, so we're stil
 QUEST_LV_0100_20160323_014871	Do you know what's harder than running from Marnox?{nl}Trying to hide among the Varvs at the Felon Prison.{nl}I want you to just get rid of all the Varvs you can find.
 QUEST_LV_0100_20160323_014872	If I get out of here I can talk proudly of having faced Marnox.{nl}But the thing with the Varvs is not something I want to talk about over dinner, {nl}or ever for that matter.
 QUEST_LV_0100_20160323_014873	I think I just heard them.{nl}Are you sure you got rid of all of them?
-QUEST_LV_0100_20160323_014874	{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little...
+QUEST_LV_0100_20160323_014874	"{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little..."
 QUEST_LV_0100_20160323_014875	I think I'm going to need to camp out here for a few days, {nl}but I'm worried about spending the night here.{nl}Will you get me the blue coal I buried at Goram Shores and Saunu Brook?{nl}I buried it before Medzio Diena, but given my situation I really need to use it...
 QUEST_LV_0100_20160323_014876	I bought it from the mine in the northern snowfield thinking I could sell it in Orsha...{nl}However, after Medzio Diena, everyone was busy reconstructing {nl}the city and cutting down the tree around it. In the end, no one was buying my items.
 QUEST_LV_0100_20160323_014877	{nl}I ended up burying it in nearby Koru Jungle.{nl}I didn't mean to leave it there for so long... {nl}I don't even know if it's good for fire, because of all the humidity.
@@ -14999,7 +14999,7 @@ QUEST_LV_0100_20160718_014998	I built a few dozens of them, so we're still far f
 QUEST_LV_0100_20160718_014999	Do you know what's harder than running from Marnox?{nl}Trying to hide among the Varvs at the Felon Prison.{nl}I want you to just get rid of all the Varvs you can find.
 QUEST_LV_0100_20160718_015000	If you see any Varvs, just get rid of them.
 QUEST_LV_0100_20160718_015001	If I get out of here, I can talk proudly of having faced Marnox.{nl}But the thing with the Varvs is not something I want to talk about over dinner, or ever, to be honest.
-QUEST_LV_0100_20160718_015002	{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little...
+QUEST_LV_0100_20160718_015002	"{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little..."
 QUEST_LV_0100_20160718_015003	I think I'm going to need to camp out here for a few days, but I'm worried about spending the{nl}night here. Will you get me the blue coal I buried at Goram Shores and Saunu Brook?
 QUEST_LV_0100_20160718_015004	I buried it before Medzio Diena, but given my situation I really need to use it...
 QUEST_LV_0100_20160718_015005	I bought it from the mine in the northern snowfield thinking I could sell it in Orsha...{nl}However, after Medzio Diena, everyone was busy reconstructing the city and cutting down the tree around it.{nl}
@@ -15331,7 +15331,7 @@ QUEST_LV_0100_20160718_015330	I have to go do something else, sorry.
 QUEST_LV_0100_20160718_015331	Preparing for the Future (1)
 QUEST_LV_0100_20160718_015332	I'll think about it.
 QUEST_LV_0100_20160718_015333	Preparing for the Future (2)
-QUEST_LV_0100_20160718_015334	I'll do it; I'll place the stones.
+QUEST_LV_0100_20160718_015334	"I'll do it; I'll place the stones."
 QUEST_LV_0100_20160718_015335	Sorry, I need to get going now.
 QUEST_LV_0100_20160718_015336	Dagger's Owner
 QUEST_LV_0100_20160718_015337	I remember experiencing something similar.
@@ -15900,7 +15900,7 @@ QUEST_LV_0100_20161005_015899	Kupole Alena
 QUEST_LV_0100_20161005_015900	Medena... It's you...{nl}I'm so sorry.{nl}I couldn't protect this place...
 QUEST_LV_0100_20161005_015901	{nl}Ah, you brought... the Revelator.
 QUEST_LV_0100_20161005_015902	I was fighting off the demons attacking Section 2 with Serija.{nl}Suddenly more and more demons and monsters started to appear and...
-QUEST_LV_0100_20161005_015903	{nl}The monsters haven't stopped using binding magic in this area; I can't break free from it.{nl}Please, defeat some monsters wandering around me.
+QUEST_LV_0100_20161005_015903	"{nl}The monsters haven't stopped using binding magic in this area; I can't break free from it.{nl}Please, defeat some monsters wandering around me."
 QUEST_LV_0100_20161005_015904	{nl}Aim for the demon monsters and the Tala, who seem to be under their control...{nl}If you defeat them I can break free from their binding magic.
 QUEST_LV_0100_20161005_015905	I'm worried for Serija.{nl}She was with me when we were being attacked...
 QUEST_LV_0100_20161005_015906	Thank you.{nl}I was finally able to break free from the binding magic.
@@ -16181,7 +16181,7 @@ QUEST_LV_0100_20161005_016180	To the Goddess' Refuge (1)
 QUEST_LV_0100_20161005_016181	To the Goddess' Refuge (2)
 QUEST_LV_0100_20161005_016182	I'll purify it.
 QUEST_LV_0100_20161005_016183	To the Goddess' Refuge (3)
-QUEST_LV_0100_20161005_016184	I can't; it's too dangerous.
+QUEST_LV_0100_20161005_016184	"I can't; it's too dangerous."
 QUEST_LV_0100_20161005_016185	Constant Interference (1)
 QUEST_LV_0100_20161005_016186	We should wait.
 QUEST_LV_0100_20161005_016187	Constant Interference (2)
@@ -16264,7 +16264,7 @@ QUEST_LV_0100_20161005_016263	Just wait a while.
 QUEST_LV_0100_20161005_016264	Purifying the energy...
 QUEST_LV_0100_20161005_016265	With the Power of the Goddess (1)
 QUEST_LV_0100_20161005_016266	We should leave right away.
-QUEST_LV_0100_20161005_016267	Let's rest first; then we can leave.
+QUEST_LV_0100_20161005_016267	"Let's rest first; then we can leave."
 QUEST_LV_0100_20161005_016268	Explaining about the Demon Kings and asking what to do
 QUEST_LV_0100_20161005_016269	Let me tell you what happened at Tevhrin Stalactite Cave.
 QUEST_LV_0100_20161005_016270	With the Power of the Goddess (2)
@@ -16664,7 +16664,7 @@ QUEST_LV_0100_20161214_016663	Device Note
 QUEST_LV_0100_20161214_016664	Good find.{nl}You read all my notes, right?
 QUEST_LV_0100_20161214_016665	Put the amount of all the foods we ate in order: that's the code to open the locking device.
 QUEST_LV_0100_20161214_016666	Those are the friendship badges I made with my friends!{nl}We were playing at the Pelke Shrine Ruins when we saw a huge monster and ran away without the badges.
-QUEST_LV_0100_20161214_016667	{nl}I thought I had lost them forever, I'm so glad to have them back.{nl}But I'm afraid some of the badges are still missing; would you please find them for me?
+QUEST_LV_0100_20161214_016667	"{nl}I thought I had lost them forever, I'm so glad to have them back.{nl}But I'm afraid some of the badges are still missing; would you please find them for me?"
 QUEST_LV_0100_20161214_016668	I don't know what monster it is.{nl}The only thing I can tell you is that it's huge.
 QUEST_LV_0100_20161214_016669	You found them all.{nl}Thank you so much.
 QUEST_LV_0100_20161214_016670	Gintas' Spirit
@@ -16858,7 +16858,7 @@ QUEST_LV_0100_20170313_016857	{nl}For the most dangerous ones, it's always safer
 QUEST_LV_0100_20170313_016858	{nl}Ramda's requests, especially, are gonna give you some hefty rewards.{nl}Her missions are always popular among all the adventurers.
 QUEST_LV_0100_20170313_016859	Talking about what happened...
 QUEST_LV_0100_20170313_016860	This portal isn't working.
-QUEST_LV_0100_20170313_016861	Obtained the Soul Flower; return to the priest.
+QUEST_LV_0100_20170313_016861	"Obtained the Soul Flower; return to the priest."
 QUEST_LV_0100_20170313_016862	Remove the protection spell above Amjene Sanctuary
 QUEST_LV_0100_20170313_016863	Go to the Magic Power Supply Device in Ishinti Crossroads 
 QUEST_LV_0100_20170313_016864	Road to the Ruthless Dungeon
@@ -17562,7 +17562,7 @@ QUEST_LV_0100_20180827_017561	Are you alright, traveler?{nl}I'm glad to see that
 QUEST_LV_0100_20180827_017562	What happened to the Quipmage?{nl}
 QUEST_LV_0100_20180827_017563	It was reckless of Aldoni to face the Quipmage alone.{nl}But thanks to you, the damage done could be kept to a minimum.
 QUEST_LV_0100_20180827_017564	The Old Research Papers have been switched and the Quipmage was also defeated.{nl}If the Beholder finds out, he will try to steal them again.
-QUEST_LV_0100_20180827_017565	Take this to Lena of the Wings of VaivoraÂ for safe keeping.
+QUEST_LV_0100_20180827_017565	Take this to Lena of the Wings of Vaivora?áfor safe keeping.
 QUEST_LV_0100_20180827_017566	Deliver the Original Copy of the Old Research Papers to Lena in Klaipeda.
 QUEST_LV_0100_20180827_017567	So these are the research papers of the Quipmage that caused the incident at Nicopolis.
 QUEST_LV_0100_20180827_017568	Looks like it's written in the language of the demons.{nl}We will keep it safe so that it doesn't fall into the Beholder's hands.
