@@ -12,7 +12,7 @@ UI_20150317_000011	{@st41}Panah jenis apa yang mau kamu buat?{/}	{@st41}어떤 �
 UI_20150317_000012	{@st41b}Sekali{/}	{@st41b}한번만{/}
 UI_20150317_000013	{@st41b}Semua{/}	{@st41b}모두{/}
 UI_20150317_000014	{@St41b}Jeda{/}	{@st41b}중단{/}
-UI_20150317_000015	{@St43}Adventure History{/}	{@st43}모험일지{/}
+UI_20150317_000015	{@St43}Jurnal Petualangan{/}	{@st43}모험일지{/}
 UI_20150317_000016	{@St43}Rumah Lelang{/}	{@st43}경매장{/}
 UI_20150317_000017	{@St59}Tutup antarmuka Rumah Lelang{/}	{@st59}경매장을 닫습니다{/}
 UI_20150317_000018	{@st41b}Barang Terjual : ×%s, Barang yang dijual : ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}
@@ -28,13 +28,13 @@ UI_20150317_000027	{@St41b}Harga Lelang	{@st41b}입찰금
 UI_20150317_000028	{@St41b}Harga Lelang Minimum mulai dari {@st57}%s{@st41b}Silver{/}	{@st41b}최소 {@st57}%s {@st41b}실버부터 입찰가능{/}
 UI_20150317_000029	{@St41b}Lelang{/}	{@st41b}입찰{/}
 UI_20150317_000030	{@St43b}Beli Sekarang!{nl}{img icon_item_silver 20 20}{@st57}%s{/}	{@st43b}바로 구매!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@St44}Permission Settings{/}	{@st44}권한설정{/}
+UI_20150317_000031	{@St44}IPengaturan{/}	{@st44}권한설정{/}
 UI_20150317_000032	{@St45}Nama:%s{/}	{@st45}이름:%s{/}
 UI_20150317_000033	{@St45}Gudang Kelompok{/}	{@st45}파티 창고{/}
 UI_20150317_000034	{@St49}None	{@st49}없음
-UI_20150317_000035	{@St49}Insert	{@st49}넣기
-UI_20150317_000036	{@St49}Import	{@st49}가져오기
-UI_20150317_000037	{@St45}Survey{/}	{@st45}설문{/}
+UI_20150317_000035	{@St49}Memuat	{@st49}넣기
+UI_20150317_000036	{@St49}Impor	{@st49}가져오기
+UI_20150317_000037	{@St45}Survei{/}	{@st45}설문{/}
 UI_20150317_000038	{@St49}Buat	{@st49}작성
 UI_20150317_000039	{@St49}Hapus	{@st49}삭제
 UI_20150317_000040	{@St44}Simpan{/}	{@st44}저장{/}
@@ -42,25 +42,25 @@ UI_20150317_000041	{@St44}Batal{/}	{@st44}취소{/}
 UI_20150317_000042	{@St43}{s22}Salon{/}	{@st43}{s22}미용실{/}
 UI_20150317_000043	{@st59}Model Rambut Sebelumnya{/}	{@st59}이전 머리{/}
 UI_20150317_000044	{@St59}Model Rambut Selanjutnya{/}	{@st59}다음 머리{/}
-UI_20150317_000045	{@st41b} change {s18} (NXP 100 required) {/}	{@st41b}변경{s18}(NXP 100 필요){/}
+UI_20150317_000045	{@st41b} Ubah {s18} (NXP 100 dibutuhkan) {/}	{@st41b}변경{s18}(NXP 100 필요){/}
 UI_20150317_000046	{@St59}Ganti ke Model Rambut yang dipilih.{/}	{@st59}선택한 헤어로 변경합니다.{/}
 UI_20150317_000047	{@St41}Batal	{@st41}해약
-UI_20150317_000048	{@st43}Black Market{/}	{@st43}블랙 마켓{/}
-UI_20150317_000049	Name of Book	책이름
+UI_20150317_000048	{@st43}Pasar Gelap{/}	{@st43}블랙 마켓{/}
+UI_20150317_000049	Nama Buku	책이름
 UI_20150317_000050	{@St59}Berhenti membaca{/}	{@st59}독서를 그만둡니다{/}
 UI_20150317_000051	{@st59}Halaman Sebelumnya{/}	{@st59}이전 페이지{/}
 UI_20150317_000052	{@st59}Halaman Selanjutnya{/}	{@st59}다음페이지{/}
 UI_20150317_000053	{@st47}%s muncul!	{@st47}%s 등장!!
-UI_20150317_000054	{@st43}Score{/}	{@st43}스코어{/}
-UI_20150317_000055	Damage Diterima	받은 데미지
-UI_20150317_000056	Technique Bonus	테크닉 보너스
-UI_20150317_000057	Evasion Bonus	회피 보너스
-UI_20150317_000058	Clear Time	클리어 시간
-UI_20150317_000059	Total Score	총 점수
+UI_20150317_000054	{@st43}Skor{/}	{@st43}스코어{/}
+UI_20150317_000055	Kerusakan Diterima	받은 데미지
+UI_20150317_000056	Bonus Teknik	테크닉 보너스
+UI_20150317_000057	Bonus Penghindaran	회피 보너스
+UI_20150317_000058	Waktu Selesai	클리어 시간
+UI_20150317_000059	Skor Total	총 점수
 UI_20150317_000060	{@st42}Waktu Terpakai	{@st42}경과 시간
 UI_20150317_000061	10 menit	10분
 UI_20150317_000062	10 detik	10초
-UI_20150317_000063	{@st44}Complete	{@st44}마감하기
+UI_20150317_000063	{@st44}Selesai	{@st44}마감하기
 UI_20150317_000064	{@st59}Tutup vending machine{/}	{@st59}자판기를 닫습니다{/}
 UI_20150317_000065	{@st43}Buff Vending Machine	{@st43}버프 자판기
 UI_20150317_000066	Nama Vending Machine	자판기 이름
@@ -68,61 +68,61 @@ UI_20150317_000067	{@st43}Daftar	{@st43}등록
 UI_20150317_000068	{@st43}Batal	{@st43}취소
 UI_20150317_000069	Buff Vending Machine	버프 자판기
 UI_20150317_000070	{@st59}Tutup Buff vending machine.	{@st59}버프 자판기를 닫습니다.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - Kamu dapat membayar silver untuk mendapatkan buff casting dari player lain.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.
+UI_20150317_000071	{@st59}Buff Vending Machine{nl} - Kamu dapat membayar dengan silver untuk mendapatkan buff casting dari player lain.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.
 UI_20150317_000072	Menu Carriage	마차메뉴
 UI_20150317_000073	{ol}{s22}Bubarkan{/}	{ol}{s22}내리기{/}
 UI_20150317_000074	Casting	캐스팅
-UI_20150317_000075	{@st43}Game Settings{/}	{@st43}게임설정{/}
+UI_20150317_000075	{@st43}Pengaturan Game{/}	{@st43}게임설정{/}
 UI_20150317_000076	{@st64}Gunakan tombol arah untuk memilih cell!	{@st64}방향키를 입력해 셀을 선택하세요!
 UI_20150317_000077	{@st43}Informasi Advancement {/}	{@st43}전직 정보{/}
 UI_20150317_000078	{@st43}Pilih Class	{@st43}클래스 선택
 UI_20150317_000079	Psychokinesist	사이코키네스스트
-UI_20150317_000080	{@st42}%s lingkarang {/}	{@st42}%s 서클{/}
+UI_20150317_000080	{@st42}%s Lingkaran {/}	{@st42}%s 서클{/}
 UI_20150317_000081	Berapa banyak lingkaran	몇 서클
-UI_20150317_000082	Tampilkan deskripsi singkat tentang class.	클래스에 대한 간단한 설명을 이곳에 표시합니다.
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}
+UI_20150317_000082	Tampilkan deskripsi singkat tentang Class.	클래스에 대한 간단한 설명을 이곳에 표시합니다.
+UI_20150317_000083	{@st41b}Kekuatan Serangan {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Support {@sti7}%s{/}	{@st41b}보조    {@sti7}%s{/}
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}
-UI_20150317_000086	{@st59}Tutup Window Informasi Class{/}	{@st59}클래스 정보 창을 닫습니다{/}
+UI_20150317_000085	{@st41b}Tingkat Kesulitan{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}
+UI_20150317_000086	{@st59}Tutup Jendela Informasi Class{/}	{@st59}클래스 정보 창을 닫습니다{/}
 UI_20150317_000087	Alarm of Advancement	전직 가능 알람
 UI_20150317_000088	{@st43} Advancement	{@st43}클래스 전직
-UI_20150317_000089	{@sti7}{s14}         Character {/}	{@sti7}{s14}캐릭터{/}
+UI_20150317_000089	{@sti7}{s14}         Karakter {/}	{@sti7}{s14}캐릭터{/}
 UI_20150317_000090	{@sti8}{s14}  Class {/}	{@sti8}{s14}클래스{/}
-UI_20150317_000091	{@st44}Chat{/}	{@st44}채팅{/}
+UI_20150317_000091	{@st44}Obrolan{/}	{@st44}채팅{/}
 UI_20150317_000092	Ke. WWWWWWWW dan 1 lagi	To. WWWWWWWW 외 1
-UI_20150317_000093	General: / s {nl} Call details: / y contents {nl} Party: / p {nl} whisper contents: / w Carrick name Contents	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용
-UI_20150317_000094	{@st41}Normal Chat{/}	{@st41}일반 대화{/}
-UI_20150317_000095	{@59}Quit{/}	{@59}종료하기{/}
-UI_20150317_000096	 {@59}Invite{/}	{@59}초대하기{/}
-UI_20150317_000097	{@st59}ALL{/}	{@st59}전체{/}
+UI_20150317_000093	Umum: / s {nl} Panggil: / y Konten {nl} Kelompok: / p Konten {nl} Bisikan : / w Koten Nama Karakter	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용
+UI_20150317_000094	{@st41}Obrolan{/}	{@st41}일반 대화{/}
+UI_20150317_000095	{@59}Keluar{/}	{@59}종료하기{/}
+UI_20150317_000096	 {@59}Undang{/}	{@59}초대하기{/}
+UI_20150317_000097	{@st59}SEMUA{/}	{@st59}전체{/}
 UI_20150317_000098	{@st59}Normal (/s chat){/}	{@st59}일반  (/s 할말){/}
 UI_20150317_000099	{@st59}Shout (/y chat){/}	{@st59}외침  (/y 할말){/}
-UI_20150317_000100	{@st59}Party (/p chat){/}	{@st59}파티  (/p 할말){/}
-UI_20150317_000101	{@st59} whisper (/ w team name, say) {/}	{@st59}귓속말   (/w 팀이름 할말){/}
-UI_20150317_000102	{@st59}Atur Chat Window{/}	{@st59}채팅창 크기 조절{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}	{@st43}{s22}채팅 매크로{/}
-UI_20150317_000104	{@st43}Macro{/}	{@st43}매크로{/}
-UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - Cara memakai: {nl} 1. Pasang gesture icon ke dalam gesture slots di bawah {nl} 2. Ketik text dan save {nl} 3. Gunakan shortcut key untuk mengeluarkan gesture dan text secara bersamaan {/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}
+UI_20150317_000100	{@st59}Kelompok (/p chat){/}	{@st59}파티  (/p 할말){/}
+UI_20150317_000101	{@st59} bisikan (/ w nama tim, masukkan kata-kata) {/}	{@st59}귓속말   (/w 팀이름 할말){/}
+UI_20150317_000102	{@st59}Atur Jendela Obrolan{/}	{@st59}채팅창 크기 조절{/}
+UI_20150317_000103	{@st43}{s22}Makro Obrolan{/}	{@st43}{s22}채팅 매크로{/}
+UI_20150317_000104	{@st43}Makro{/}	{@st43}매크로{/}
+UI_20150317_000105	{@st59b} Makro {nl} {@st59s} - Cara memakai: {nl} 1. Pasang gesture icon ke dalam gesture slots di bawah {nl} 2. Ketik text dan save {nl} 3. Gunakan shortcut key untuk mengeluarkan gesture dan text secara bersamaan {/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}
 UI_20150317_000106	{@st59}Tutup Macro{/}	{@st59}매크로를 닫습니다{/}
-UI_20150317_000107	{@st41b} Save {/}	{@st41b}저장{/}
-UI_20150317_000108	{@st59}Save konten yang terpasang{/}	{@st59}등록한 내용을 저장합니다{/}
+UI_20150317_000107	{@st41b} Simpan {/}	{@st41b}저장{/}
+UI_20150317_000108	{@st59}Simpan konten yang terpasang{/}	{@st59}등록한 내용을 저장합니다{/}
 UI_20150317_000109	{@st41b} Batal {/}	{@st41b}취소{/}
 UI_20150317_000110	{@st59}Batalkan pemasangan konten{/}	{@st59}등록한 내용을 취소합니다{/}
-UI_20150317_000111	{@st42}Chat Settings	{@st42}채팅 설정
-UI_20150317_000112	{@st42}Transparency	{@st42}투명도
-UI_20150317_000113	Tampilkan chat balloon	말풍선 표시
+UI_20150317_000111	{@st42}Pengaturan Obrolan	{@st42}채팅 설정
+UI_20150317_000112	{@st42}Transparansi	{@st42}투명도
+UI_20150317_000113	Tampilkan Balon Obrolan	말풍선 표시
 UI_20150317_000114	Shout di bagian atas layar menampilkan informasi	화면 상단에 외치기 내용 표시
-UI_20150317_000115	{@st43}Cheat List{/}	{@st43}치트리스트{/}
-UI_20150317_000116	{@st42b}Item{/}	{@st42b}  아이템  {/}
+UI_20150317_000115	{@st43}Daftar Cheat{/}	{@st43}치트리스트{/}
+UI_20150317_000116	{@st42b}Barang{/}	{@st42b}  아이템  {/}
 UI_20150317_000117	{@st42b}Monster{/}	{@st42b}  몬스터  {/}
-UI_20150317_000118	{@st42b}Move map{/}	{@st42b}  맵이동  {/}
+UI_20150317_000118	{@st42b}Pindah Map{/}	{@st42b}  맵이동  {/}
 UI_20150317_000119	{@st42b}Combat Order{/}	{@st42b}  전투명령  {/}
 UI_20150317_000120	{@st41b}Tutup{/}	{@st41b}닫기{/}
-UI_20150317_000121	{s16}{b}Double click atau click tombol Create untuk membuat item.	{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.
+UI_20150317_000121	{s16}{b}Klik 2x atau klik tombol Create untuk membuat barang.	{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.
 UI_20150317_000122	{s16}{b}ea	{s16}{b}개
 UI_20150317_000123	{s16}{b}Lv.	{s16}{b}레벨
 UI_20150317_000124	{@st41b}Cari{/}	{@st41b}검색{/}
-UI_20150317_000125	{s16}{b}Double click atau click tombol Create untuk summon monster.	{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.
+UI_20150317_000125	{s16}{b}Klik 2x atau klik tombol Create untuk summon monster.	{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.
 UI_20150317_000126	{s16}{b}ea	{s16}{b}마리
 UI_20150317_000127	{s16}{b}Pilih area yang kamu mau.	{s16}{b}원하는 지역을 선택하세요
 UI_20150317_000128	{s18}{b}Tampilkan Minimap{/}	{s18}{b}미니맵 보기{/}
