@@ -42605,4 +42605,42 @@ ETC_20190820_042606	Nuaele? That little thing grew larger?	누아엘레? 그 애
 ETC_20190820_042607	Can only be used while in towns.{nl}Check the tooltip for the specific areas where the item can be used.	도시에서만 사용할 수 있습니다.{nl}사용지역은 아이템 툴팁에서 확인하세요.
 ETC_20190820_042608	Daily purchase limit of {COUNT} 	일일 {Count}개 구매 가능 
 ETC_20190820_042609	We are supporting Saviors who have advanced into classes affected by balance changes.{nl}Please check the list of eligible classes.	변경된 밸런스에 맞춰 특정 클래스로 선택하신 구원자님을 지원해드리고 있습니다.{nl}지원 가능한 클래스를 확인해보세요.
-ETC_20190824_042610	September Attendance Rewards	9월 출석 보상				
+ETC_20190828_042610	September Attendance Rewards	9월 출석 보상				
+ETC_20190830_042611	Vakarine Package	9월 바카리네 패키지
+ETC_20190830_042612	Right-click to use and acquire the contents of the box. Will receive 1 item per day when you login for up to 25 days. 	마우스 우클릭으로 사용할 수 있습니다. 사용시 상자의 내용물을 획득할 수 있습니다. 사용시 25일간 1일 1회 접속시 해당 날의 아이템을 지급합니다.
+ETC_20190830_042613	Vakarine First Time Package	9월 바카리네 NBU 패키지
+ETC_20190830_042614	[Vakarine] Token	9월 바카리네 패키지 - 토큰
+ETC_20190830_042615	Right-click to use and obtain the items.{nl}- Token: 15 Days [Vakarine]	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 토큰:15일 [바카리네]
+ETC_20190830_042616	[Vakarine] Raid Portal Stone	9월 바카리네 패키지 - 레이드 포탈 스톤
+ETC_20190830_042617	Right-click to use and obtain the items.{nl}- Raid Portal Stone x30	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레이드 포탈 스톤 x30
+ETC_20190830_042618	[Vakarine] Ichor Extraction Kit	9월 바카리네 패키지 - 아이커 추출 키트
+ETC_20190830_042619	Right-click to use and obtain the items.{nl}- Shining Silver Ichor Extraction Kit	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 은빛 아이커 추출 키트 x10
+ETC_20190830_042620	[Vakarine] Attribute Points	9월 바카리네 패키지 - 특성 포인트
+ETC_20190830_042621	Right-click to use and obtain the items.{nl}- Attribute Points 500 x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 특성 포인트 500 x10
+ETC_20190830_042622	[Vakarine] Challenge Reset Box	9월 바카리네 패키지 - 챌린지 초기화 상자
+ETC_20190830_042623	Right-click to use and obtain the items.{nl}- Challenge Reset Box	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 챌린지 초기화 상자
+ETC_20190830_042624	[Vakarine] Artisan Enchant Scroll	9월 바카리네 패키지 - 장인의 마법 부여 스크롤
+ETC_20190830_042625	Right-click to use and obtain the items.{nl}- Artisan Enchant Scroll x3	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 장인의 마법 부여 스크롤 x3
+ETC_20190830_042626	[Vakarine] x8 EXP Tome	9월 바카리네 패키지 - x8 경험의 서
+ETC_20190830_042627	Right-click to use and obtain the items.{nl}- x8 EXP Tome x5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - x8 경험의서 x5
+ETC_20190830_042628	[Vakarine] Legend Card Slot Unlock Voucher	9월 바카리네 패키지 - 레전드 카드 장착 슬롯 해금권
+ETC_20190830_042629	Right-click to use and obtain the items.{nl}- Legend Card Slot Unlock Voucher	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레전드 카드 장착 슬롯 해금권
+ETC_20190830_042630	[Vakarine] Token	9월 바카리네 NBU 패키지 - 토큰
+ETC_20190830_042631	Right-click to use and obtain the items.{nl}- Token: 7 Days	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 토큰:7일
+ETC_20190830_042632	[Vakarine] x8 EXP Tome	9월 바카리네 NBU 패키지 - x8 경험의 서
+ETC_20190830_042633	[Vakarine] Instanced Dungeon Reset Voucher	9월 바카리네 NBU 패키지 - 인스턴스 던전 초기화권
+ETC_20190830_042634	Right-click to use and obtain the items.{nl}- Instanced Dungeon Reset Voucher x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 인스턴스 던전 초기화권 x10
+ETC_20190830_042635	[Vakarine] Instanced Dungeon Multiplier Token	9월 바카리네 NBU 패키지 - 인스턴스 던전 배수 토큰
+ETC_20190830_042636	Right-click to use and obtain the items.{nl}- Instanced Dungeon Multiplier Token x20	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 인스턴스 던전 배수 토큰 x20
+ETC_20190830_042637	[Vakarine] Character Slot Voucher	9월 바카리네 NBU 패키지 - 캐릭터 슬롯 추가 이용권
+ETC_20190830_042638	Right-click to use and obtain the items.{nl}- Character Slot Voucher	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 캐릭터 슬롯 추가 이용권
+ETC_20190830_042639	[Vakarine] Free Hair Coupon	9월 바카리네 NBU 패키지 - 헤어 1회 무료 이용권
+ETC_20190830_042640	Right-click to use and obtain the items.{nl}- Free Hair Coupon	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 헤어 1회 무료 이용권
+ETC_20190830_042641	[Vakarine] Class Change Voucher	9월 바카리네 NBU 패키지 - 클래스 변경권
+ETC_20190830_042642	Right-click to use and obtain the items.{nl}- Class Change Voucher Lv. 3	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 클래스 변경권 Lv.3
+ETC_20190830_042643	[Vakarine] Class Unlock Selection Box	9월 바카리네 NBU 패키지 - 해금권 선택 상자
+ETC_20190830_042644	Right-click to use and obtain the items.{nl}- [Event] Class Unlock Voucher Selection Box	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [이벤트] 해금권 선택 상자
+ETC_20190830_042645	{s24}Congratulations!{nl}{PC} has acquired {ITEMNAME}{nl}from {BOX}!	{s24}축하드립니다!{nl}{PC} 님이 {BOX}에서{nl}{ITEMNAME} 를 획득하셨습니다!
+ETC_20190830_042646	[Summer Festa] Magic Ice Cube Shop	[Summer Festa] 얼음 상점
+ETC_20190830_042647	[Vakarine] Character Slot Voucher + Free Hair Coupon	9월 바카리네 NBU 패키지 - 캐릭터 슬롯 추가 이용권 + 헤어 1회 무료 이용권
+ETC_20190830_042648	You cannot give an offer nor receive blessings{nl}Visit the Pardoner Master for advice	헌금도 불가능하고 축복도 받아지지 않는다{nl}파드너 마스터를 찾아가 조언을 구해보자
