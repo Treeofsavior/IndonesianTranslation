@@ -2635,81 +2635,81 @@ UI_20170418_002634	{@st68}Retrieve all{/}	{@st68}전체수령
 UI_20170418_002635	Required Points	필요 포인트
 UI_20170419_002636	{@st66b}See More{/}	{@st66b}친구 더 보기{/}
 UI_20170419_002637	Click to see more friend info.	클릭하면 더 많은 친구 정보를 볼 수 있습니다
-UI_20170419_002638	I agree to being matched in a party of 2 to 4 players.	4인 이하로 매칭될 수 있는 데에 동의합니다.
-UI_20170420_002639	My points:	내 특성 포인트 :
-UI_20170420_002640	{@st66b}Purchase Attribute Points	{@st66b}특성 포인트 구매
-UI_20170420_002641	{@st66d}Purchase Attribute Points	{@st66d}특성 포인트 구매
+UI_20170419_002638	Setuju untuk matching dengan jumlah anggota 4 orang ke bawah.	4인 이하로 매칭될 수 있는 데에 동의합니다.
+UI_20170420_002639	Point saya :	내 특성 포인트 :
+UI_20170420_002640	{@st66b}Membeli Attribute Points	{@st66b}특성 포인트 구매
+UI_20170420_002641	{@st66d}Membeli Attribute Points	{@st66d}특성 포인트 구매
 UI_20170420_002642	Purchase Rate	구매 비율
-UI_20170420_002643	Can Purchase	구매 가능 포인트
-UI_20170420_002644	Enter the amount of points to purchase.	구매하실 포인트를 입력하세요.
-UI_20170420_002645	Amount Spent	소비 소지금
-UI_20170420_002646	Amount Left	잔여 소지금
+UI_20170420_002643	Bisa Membeli	구매 가능 포인트
+UI_20170420_002644	Masukkan jumlah point yang akan dibeli.	구매하실 포인트를 입력하세요.
+UI_20170420_002645	Jumlah digunakan	소비 소지금
+UI_20170420_002646	Jumlah Tersisa	잔여 소지금
 UI_20170420_002647	{@st66b}Purchase	{@st66b}구매
 UI_20170420_002648	{@st66b}Cancel	{@st66b}취소
-UI_20170420_002649	You can store tradable items.{nl}Silver storage is available to Token users.	거래가 가능한 아이템을 보관할 수 있습니다.{nl}실버 보관은 토큰을 구매한 유저만 이용 가능합니다.
-UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}	{@st41b}한번 더 열기를 할 수 없는 큐브입니다.{/}
-UI_20170420_002651	{@st41}Open Costume Cube	{@st41}코스튬 큐브  열기
+UI_20170420_002649	Kamu dapat menyimpan tradable items.{nl}Silver storage tersedia bagi pengguna Token.	거래가 가능한 아이템을 보관할 수 있습니다.{nl}실버 보관은 토큰을 구매한 유저만 이용 가능합니다.
+UI_20170420_002650	{@st41b}Cube ini tidak dapat di re-open.{/}	{@st41b}한번 더 열기를 할 수 없는 큐브입니다.{/}
+UI_20170420_002651	{@st41}Membuka Costume Cube	{@st41}코스튬 큐브  열기
 UI_20170420_002652	{@st66b}Use to obtain a costume.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}
-UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.
-UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.
-UI_20170615_002655	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤 큐브 X %s 열기
+UI_20170510_002653	* Setelah reset, kamu akan menerima attribute points{nl} setara dengan level atribut kamu sebelum di reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.
+UI_20170510_002654	* Class EXP Card setara dengan Class Level terakhir{nl}yang kamu capai akan dikirim ke inventory kamu.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.
+UI_20170615_002655	{@st42b}Membuka Leticia's Secret Cube X %s	{@st42b}레티샤 큐브 X %s 열기
 UI_20170615_002656	{@st43}{s22}Recipe Cube{/}	{@st43}{s22}레시피 큐브{/}
-UI_20170615_002657	{@st41}Select a recipe and confirm{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}
-UI_20170615_002658	{@st41b}Receive{/}	{@st41b}받기{/}
+UI_20170615_002657	{@st41}Pilihlah recipe yang diinginkan lalu klik OK{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}
+UI_20170615_002658	{@st41b}Terima{/}	{@st41b}받기{/}
 UI_20170726_002659	{@st66b}Group Settings	{@st66b}그룹 설정
 UI_20170726_002660	{@st66b}Color Settings	{@st66b}색 설정
-UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}
+UI_20170726_002661	{@st66d}Jika salah satu pemain bukan pengguna Token,{nl}setelah trade, status item tersebut akan menjadi untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}
 UI_20170726_002662	{@st42b}Start{/}	{@st42b}시작{/}
-UI_20170726_002663	To start fishing, select your bait.	낚시를 시작합니다. 사용할 미끼를 올려주세요.
-UI_20170726_002664	Place your bait here.	미끼를 올려주세요
-UI_20170726_002665	Close Tackle Box.	살림통을 닫습니다.
+UI_20170726_002663	Untuk mulai memancing, pilih umpanmu.	낚시를 시작합니다. 사용할 미끼를 올려주세요.
+UI_20170726_002664	Letakkan umpanmu disini	미끼를 올려주세요
+UI_20170726_002665	Tutup Tackle Box.	살림통을 닫습니다.
 UI_20170726_002666	{@st43}Tackle Box{/}	{@st43}살림통{/}
 UI_20170726_002667	{@sti1}Items{/}	{@sti1}아이템{/}
-UI_20170726_002668	{@st42b}Receive Items{/}	{@st42b}아이템 수령{/}
+UI_20170726_002668	{@st42b}Terima Item{/}	{@st42b}아이템 수령{/}
 UI_20170726_002669	{@st42b}Stop Fishing{/}	{@st42b}낚시 종료{/}
 UI_20170726_002670	{@sti1}Fishing Cycles{/}	{@sti1}낚시 횟수{/}
 UI_20170726_002671	{@st43}Fishing Ranking{/}	{@st43}낚시 랭킹{/}
-UI_20170726_002672	{@st59}Close Fishing Ranking.{/}	{@st59}낚시 랭킹 창을 닫습니다.{/}
+UI_20170726_002672	{@st59}Tutup Fishing Ranking.{/}	{@st59}낚시 랭킹 창을 닫습니다.{/}
 UI_20170726_002673	Points	낚시 포인트
-UI_20170726_002674	You can move to your desired location.	거점 이동을 할 수 있습니다.
-UI_20170726_002675	{nl}Daily entries are counted differently for each kind of dungeon. 	{nl}각 던전은 카테고리별로 입장 횟수가 카운트 됩니다. 
-UI_20170726_002676	{@st59}Close Instanced Dungeons.{/}	{@st59}인스턴스 던전 창을 닫습니다{/}
+UI_20170726_002674	Kamu bisa pindah ke lokasi yang kamu inginkan.	거점 이동을 할 수 있습니다.
+UI_20170726_002675	{nl}Daily entries dihitung berbeda untuk setiap jenis dungeon. 	{nl}각 던전은 카테고리별로 입장 횟수가 카운트 됩니다. 
+UI_20170726_002676	{@st59}Tutup Instanced Dungeons.{/}	{@st59}인스턴스 던전 창을 닫습니다{/}
 UI_20170726_002677	{@st43}Instanced Dungeons{/}	{@st43}인스턴스 던전{/}
-UI_20170726_002678	Name	던전 이름
-UI_20170726_002679	One additional daily entry granted to Token users.	토큰 혜택으로 1회 추가 입장 가능합니다.
+UI_20170726_002678	Nama	던전 이름
+UI_20170726_002679	Satu daily entry tambahan akan diberikan kepada pengguna Token.	토큰 혜택으로 1회 추가 입장 가능합니다.
 UI_20170726_002680	Entry Level	입장 레벨
 UI_20170726_002681	Difficulty	난이도
 UI_20170726_002682	Order	별
 UI_20170726_002683	{@st66b}By level - low to high{/}	{@st66b}레벨 오름차순{/}
 UI_20170726_002684	{@st66b}By level - high to low{/}	{@st66b}레벨 내림차순{/}
-UI_20170726_002685	{@st66b}Daily entries reset every day at %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
-UI_20170726_002686	{@st43}{s22}See Location{/}	{@st43}{s22}던전 위치 보기{/}
-UI_20170726_002687	{@st59}Close Location.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}
+UI_20170726_002685	{@st66b}Daily entries reset setiap hari pada %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
+UI_20170726_002686	{@st43}{s22}Lihat Lokasi{/}	{@st43}{s22}던전 위치 보기{/}
+UI_20170726_002687	{@st59}Tutup Lokasi.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}
 UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}
-UI_20170726_002689	{@st66b}Click a banner to go to the event announcement.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}
-UI_20170726_002690	{@st59}Close Events.{/}	{@st59}이벤트 안내 UI를 닫습니다{/}
-UI_20170726_002691	{@st59}Exchange Equipment.{/}	{@st59}해당 번호로 장비를 교환합니다{/}
-UI_20170726_002692	Open Event Banner	이벤트 배너를 엽니다
-UI_20170726_002693	{@st66b}Show No. of Fragments{/}	{@st66b}메인 화면에 파편의 개수 표시하기{/}
+UI_20170726_002689	{@st66b}Klik Banner untuk ke event announcement.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}
+UI_20170726_002690	{@st59}Tutup Events.{/}	{@st59}이벤트 안내 UI를 닫습니다{/}
+UI_20170726_002691	{@st59}Menukar Equipment.{/}	{@st59}해당 번호로 장비를 교환합니다{/}
+UI_20170726_002692	Buka Event Banner	이벤트 배너를 엽니다
+UI_20170726_002693	{@st66b}Tampilkan jumlah Fragments{/}	{@st66b}메인 화면에 파편의 개수 표시하기{/}
 UI_20170726_002694	{@st42}Necronomicon Fragments{/}	{@st42}네크로노미콘 파편의 개수{/}
-UI_20170726_002695	{@st66b}Show Amount of Poison{/}	{@st66b}메인 화면에 독의 양 표시하기{/}
+UI_20170726_002695	{@st66b}Tampilkan jumlah Poison{/}	{@st66b}메인 화면에 독의 양 표시하기{/}
 UI_20170726_002696	{s20}Poison	{s20}독의 양
-UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
+UI_20170726_002697	{@st42}Poison di Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Tackle Box{/}	{@st59}낚시 살림통{/}
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}
-UI_20170726_002700	{@st66b}See Basic Character Info{/}	{@st66b}캐릭터 기본 정보 보기{/}
-UI_20170726_002701	{@st66b}Show HP/SP Under Character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
-UI_20170726_002702	{@st66b}Use multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
+UI_20170726_002700	{@st66b}Lihat basic character info{/}	{@st66b}캐릭터 기본 정보 보기{/}
+UI_20170726_002701	{@st66b}Tampilkan HP dan SP dibawah karakter{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
+UI_20170726_002702	{@st66b}Gunakan multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}
 UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}
-UI_20170726_002705	{@st43d}{s18}See our official website for the lists of items contained in TP Cubes.{/}	{@st43d}{s18}- 홈페이지 하단의 확률형 아이템 목록 메뉴에서 구성품과 확률을 확인 할 수 있습니다.{/}
-UI_20170726_002706	{@st41}Select and confirm.{/}	{@st41}선택 후 확인을 눌러주세요{/}
+UI_20170726_002705	{@st43d}{s18}Lihat official website kami untuk list items yang terdapat di TP Cubes.{/}	{@st43d}{s18}- 홈페이지 하단의 확률형 아이템 목록 메뉴에서 구성품과 확률을 확인 할 수 있습니다.{/}
+UI_20170726_002706	{@st41}Pilih dan confirm.{/}	{@st41}선택 후 확인을 눌러주세요{/}
 UI_20170726_002707	{@st59}Help{/}	{@st59}도움말{/}
-UI_20170726_002708	Days/Hours/Minutes	일시분
+UI_20170726_002708	Hari/Jam/Menit	일시분
 UI_20170726_002709	{@st59}New{/}	{@st59}신규{/}
-UI_20170726_002710	{@st59}Closing Soon{/}	{@st59}종료 임박{/}
-UI_20170726_002711	{@st59}Exchange Period{/}	{@st59}교환 기간{/}
-UI_20170726_002712	{@st66b}Receive Rewards	{@st66b}보상 받기
+UI_20170726_002710	{@st59}Segera ditutup{/}	{@st59}종료 임박{/}
+UI_20170726_002711	{@st59}Periode Penukaran{/}	{@st59}교환 기간{/}
+UI_20170726_002712	{@st66b}Terima Rewards	{@st66b}보상 받기
 UI_20170901_002713	{@st59}Wings{/}	{@st59}날개{/}
 UI_20170912_002714	{@st43b}Adventure Journal	{@st43b}모험 일지
 UI_20170912_002715	{@st59}Adventure Journal Ranking	{@st59}모험일지 랭킹{/}
@@ -2725,22 +2725,22 @@ UI_20170912_002724	{@st59}Growth{/}	{@st59}성장{/}
 UI_20170912_002725	{@st59}Exploration{/}	{@st59}탐험{/}
 UI_20170912_002726	Team	팀명
 UI_20170912_002727	Character	캐릭명
-UI_20170912_002728	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}
+UI_20170912_002728	{img test_cooltime 24 24}Point direset pada hari pertama setiap bulan.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}
 UI_20170912_002729	{@st41b}Top Ranks	{@st41b}상위 랭킹
-UI_20170912_002730	{@st41b}My Nearest Ranks	{@st41b}내 주변 랭킹
+UI_20170912_002730	{@st41b}Ranks Terdekat	{@st41b}내 주변 랭킹
 UI_20170912_002731	{@st43b}Total %s Points	{@st43b}총 획득 점수 %s점
-UI_20170912_002732	{@st66b}More Monsters	{@st66b}몬스터 더 보기
+UI_20170912_002732	{@st66b}Monster Lainnya		{@st66b}몬스터 더 보기
 UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}
 UI_20170912_002734	Defeated	처치횟수
 UI_20170912_002735	{@st41b}Area	{@st41b}서식지역
-UI_20170912_002736	Descpription	설명문
-UI_20170912_002737	Subcategory	하위 카테고리
-UI_20170912_002738	{@st66b}More Items	{@st66b}아이템 더 보기
+UI_20170912_002736	Deskripsi	설명문
+UI_20170912_002737	Subkategori	하위 카테고리
+UI_20170912_002738	{@st66b}Item lainnya	{@st66b}아이템 더 보기
 UI_20170912_002739	Attributes	관련 특성
 UI_20170912_002740	Total Sales	총 매출
 UI_20170912_002741	{@st66b}More	{@st66b}더 보기
-UI_20170912_002742	Name A-Z	이름 올림차 순
-UI_20170912_002743	Name Z-A	이름 내림차 순
+UI_20170912_002742	Nama A-Z	이름 올림차 순
+UI_20170912_002743	Nama Z-A	이름 내림차 순
 UI_20170912_002744	%s Fishes Caught	물고기를 낚은 횟수  %s번
 UI_20170912_002745	Clears	클리어 횟수
 UI_20170912_002746	Location	던전위치
@@ -2777,31 +2777,31 @@ UI_20170912_002776	Area: %s	지역:%s
 UI_20170912_002777	Area	지역 이름
 UI_20170912_002778	{@st42}{s18}My Character List	{@st42}{s18}완료한 내 캐릭터 목록
 UI_20170912_002779	[%s] Reward List	[%s] 보상리스트
-UI_20170912_002780	ⓘ Collect your rewards at the Wings of Vaivora.	ⓘ 바이보라 날개에게서 보상 아이템을 획득하실 수 있습니다.
+UI_20170912_002780	ⓘ Ambil reward-mu di Wings of Vaivora.	ⓘ 바이보라 날개에게서 보상 아이템을 획득하실 수 있습니다.
 UI_20170912_002781	Retrieve All	모두 받기
 UI_20170912_002782	Territory Wars Alert	콜로니전 알람 메세지
 UI_20170912_002783	Spot Last Seized By	현재 점령 중인 길드
 UI_20170912_002784	Current Points	점령 포인트 현황
 UI_20170912_002785	My Guild	내 길드
-UI_20170912_002786	{@st66d}Return to a city in {s20}%s seconds.{/}	{@st66d}{s20}%s초 후에 도시로 귀환됩니다.{/}
-UI_20170912_002787	{@st66d}Return to city{/}	{@st66d}도시 귀환{/}
+UI_20170912_002786	{@st66d}Kembali ke kota dalam {s20}%s detik.{/}	{@st66d}{s20}%s초 후에 도시로 귀환됩니다.{/}
+UI_20170912_002787	{@st66d}Kembali ke kota{/}	{@st66d}도시 귀환{/}
 UI_20170912_002788	{@st43}{s20}Protecting Guild{/}	{@st43}{s20}점령길드{/}
 UI_20170912_002789	Protecting Guild	점령 길드 이름
 UI_20170912_002790	{@st41_red}Removable Effect{/}	{@st41_red}제거 되는 효과{/}
 UI_20170912_002791	{@st43}Exchange Artifact{/}	{@st43}유물 교환{/}
 UI_20170912_002792	{@st59}Close Exchange Artifact{/}	{@st59}유물 교환을 닫습니다{/}
 UI_20170912_002793	{@st41b}Exchange	{@st41b}교환
-UI_20170912_002794	To start fishing, select your bait.	낚시를 시작합니다. 사용할 미끼를 선택해주세요.
+UI_20170912_002794	Untuk mulai memancig, pilih umpanmu.	낚시를 시작합니다. 사용할 미끼를 선택해주세요.
 UI_20170912_002795	{@st43b}{s22}Stage %s Tackle Box{/}	{@st43b}{s22}%s 단계 살림통{/}
 UI_20170912_002796	{@st66d_y}{s22}Stage %s Tackle Box{/}	{@st66d_y}{s22}%s 단계 살림통{/}
-UI_20170912_002797	Max. %s slots{nl}Fished %s time(s)	최대 %s칸{nl}낚시 횟수 %s회
+UI_20170912_002797	Max. %s slots{nl}Memancing %s kali	최대 %s칸{nl}낚시 횟수 %s회
 UI_20170912_002798	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP 업그레이드{/}
 UI_20170912_002799	{@st43}Image %s{/}	{@st43}이미지 %s{/}
 UI_20170912_002800	Enter	등록
-UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인
+UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image dan register it{nl}- Refresh untuk meng-update list, kemudian pilih image	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인
 UI_20170912_002802	{@st66b}{s18}Open folder	{@st66b}{s18}폴더 열기
-UI_20170912_002803	Open the folder containing the image.	이미지 등록된 폴더를 열어줍니다.
-UI_20170912_002804	Update the list.	리스트를 갱신합니다.
+UI_20170912_002803	Buka folder yang berisi image.	이미지 등록된 폴더를 열어줍니다.
+UI_20170912_002804	Update list.	리스트를 갱신합니다.
 UI_20170912_002805	{@st41b}{nl}Confirm	{@st41b}{nl}확인
 UI_20170912_002806	{@st41b}{nl}Cancel	{@st41b}{nl}취소
 UI_20170912_002807	{@st43}Guild	{@st43}길드
@@ -2825,44 +2825,44 @@ UI_20170912_002824	{@st41b}Invite	{@st41b}길드 초대
 UI_20170912_002825	{@st66d_y}{s18}Guild Level{/}	{@st66d_y}{s18}길드 레벨{/}
 UI_20170912_002826	{@st43b}{s18}Guild Tower(%s/1){/}	{@st43b}{s18}길드 타워 (%s/1){/}
 UI_20170912_002827	Benefits	길드 혜택
-UI_20170912_002828	Guild benefits updated to current Templar's Guild Tower level.	현재 템플러의 길드 타워 레벨로 길드 혜택을 갱신합니다.
+UI_20170912_002828	Guild benefits update pada Templar Guild Tower level saat ini.	현재 템플러의 길드 타워 레벨로 길드 혜택을 갱신합니다.
 UI_20170912_002829	Attribute Points: %s	특성 포인트: %s
-UI_20170912_002830	ⓘ Guild upgrading is only available inside the Guild Tower.	ⓘ 길드 성장은 길드 타워에서만 가능합니다.
+UI_20170912_002830	ⓘ Guild upgrading hanya tersedia didalam Guild Tower.	ⓘ 길드 성장은 길드 타워에서만 가능합니다.
 UI_20170912_002831	{@st43b}{s18}Guild Items{/}	{@st43b}{s18}길드 아이템{/}
 UI_20170912_002832	{@st43b}{s18}Guild Funds{/}	{@st43b}{s18}길드 자금{/}
 UI_20170912_002833	Note	비고
 UI_20170912_002834	{img icon_item_silver 24 24} Amount	{img icon_item_silver 24 24} 금액
 UI_20170912_002835	{img in_arrow 20 20}{@st66b}{s18}Deposit  {/}	{img in_arrow 20 20}{@st66b}{s18}입금  {/}
-UI_20170912_002836	ⓘ This item can be distributed to guild members by the guild master, after which it becomes bound to each character that receives it.{nl}ⓘ To receive the item, check your lodge Message Box.	ⓘ 이 아이템은 길드 마스터가 길드원에게 양도할 수 있고, 그 아이템은 수령한 길드원에게 귀속됩니다.{nl}ⓘ 아이템은 메세지 함에서 수령 가능합니다.
+UI_20170912_002836	ⓘ Item ini bisa di distribusikan ke guild member oleh guild master, setelah itu akan menjadi bound pada setiap karakter yang menerimanya.{nl}ⓘ Untuk menerima item, check lodge Message Box kamu.	ⓘ 이 아이템은 길드 마스터가 길드원에게 양도할 수 있고, 그 아이템은 수령한 길드원에게 귀속됩니다.{nl}ⓘ 아이템은 메세지 함에서 수령 가능합니다.
 UI_20170912_002837	{@st43b}{s18}Guild Wars{/}	{@st43b}{s18}길드 전쟁{/}
 UI_20170912_002838	Neutral Status Canceled Alert	중립 해제 알람
-UI_20170912_002839	The alert is displayed starting 1 day before neutrality is canceled.{nl}Only the Guild Master can change this option.	중립 선언이 해제되기 1일 전부터 맵에 입장할 때마다 알람 메세지가 나옵니다.{nl}길드 마스터만 옵션 변경을 할 수 있습니다.
-UI_20170912_002840	ⓘ Guild Towers destroyed in wars can be rebuilt after 24 hours.{nl}ⓘ Declarations of war can be done at the opponent guild's tower.{nl}ⓘ The war starts 1 hour after it has been declared.{nl}ⓘ After declaring war, your guild cannot be disbanded until after the war ends.{nl}ⓘ You cannot declare a war without a Guild Tower.	ⓘ 길드 전쟁 도중 부숴진 길드 타워는 24시간 이후에 다시 세울 수 있습니다.{nl}ⓘ 전쟁 선포는 상대 길드 타워를 통해 선포 할 수 있습니다.{nl}ⓘ 전쟁 선포 후, 1시간 후에 전쟁이 시작됩니다.{nl}ⓘ 전쟁 선포를 하면, 전쟁이 끝날 때까지 길드 해산을 할 수 없습니다.{nl}ⓘ 길드타워가 없으면 전쟁 선포를 할 수 없습니다.
+UI_20170912_002839	Alert ditampilkan mulai 1 hari sebelum neutrality ter-cancel.{nl}Hanya Guild Master yang bisa menganti option ini.	중립 선언이 해제되기 1일 전부터 맵에 입장할 때마다 알람 메세지가 나옵니다.{nl}길드 마스터만 옵션 변경을 할 수 있습니다.
+UI_20170912_002840	ⓘ Guild Towers hancur dalam wars bisa di rebuilt setelah 24 jam.{nl}ⓘ Deklarasi war bisa dilakukan pada guild tower musuh.{nl}ⓘ War dimulai 1 jam setelah war di deklarasikan.{nl}ⓘ Setelah deklarasi war, guild kamu tidak bisa dibubarkan hingga war selesai.{nl}ⓘ Kamu tidak bisa mendeklarasikan war tanpa sebuah Guild Tower.	ⓘ 길드 전쟁 도중 부숴진 길드 타워는 24시간 이후에 다시 세울 수 있습니다.{nl}ⓘ 전쟁 선포는 상대 길드 타워를 통해 선포 할 수 있습니다.{nl}ⓘ 전쟁 선포 후, 1시간 후에 전쟁이 시작됩니다.{nl}ⓘ 전쟁 선포를 하면, 전쟁이 끝날 때까지 길드 해산을 할 수 없습니다.{nl}ⓘ 길드타워가 없으면 전쟁 선포를 할 수 없습니다.
 UI_20170912_002841	{@st43b}{s18}Guild Territory Wars{/}	{@st43b}{s18}길드 콜로니전{/}
-UI_20170912_002842	What are Territory Wars	길드 콜로니전이란
+UI_20170912_002842	Apa itu Territory Wars	길드 콜로니전이란
 UI_20170912_002843	Status	참가 여부
-UI_20170912_002844	Not Participating	미참가
-UI_20170912_002845	ⓘ Guilds with Spots seized are automatically participating.{nl}ⓘ After setting the status to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션을 
-UI_20170912_002846	, you cannot transfer the position of Guild Master.{nl}ⓘ Only a Templar Guild Master can change the participation status.{nl}ⓘ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}ⓘ The participation status can be changed regardless of whether your guild has a tower or not.	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 템플러 클래스를 가진 길드 마스터만 변경할 수 있습니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.
+UI_20170912_002844	Tidak Berpatisipasi	미참가
+UI_20170912_002845	ⓘ Guilds dengan Spots seized secara otomatis berpatisipasi.{nl}ⓘ Setelah setting status  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션을 
+UI_20170912_002846	, kamu tidak bisa transfer posisi Guild Master.{nl}ⓘ Hanya Templar Guild Master yang bisa mengubah status partisipasi.{nl}ⓘ Option ini hanya bisa di ganti hingga 5 menit sebelum Territory Wars dimulai, atau 1 menit setelah war berakhir.{nl}ⓘ Status partisipasi bisa diganti terlepas dari apakah guild kamu memiliki tower atau tidak.	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 템플러 클래스를 가진 길드 마스터만 변경할 수 있습니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.
 UI_20170912_002847	{@st43b}{s18}Spot Benefits{/}	{@st43b}{s18}점령 혜택{/}
 UI_20170912_002848	Spot Areas	점령 지역
 UI_20170912_002849	Grade	지역 등급
 UI_20170912_002850	Silver Reward (%)	지급 실버(%)
 UI_20170912_002851	Spot Rewards	점령보상
-UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 
-UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.
+UI_20170912_002852	ⓘ Spot rewards %s setiap satu minggu.{nl}ⓘ Rewards termasuk  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 
+UI_20170912_002853	 dari Market fees kamu dari minggu sebelumnya.{nl}ⓘ Spot rewards akan dikirimkan berupa Copper Bars.{nl}ⓘ Jumlah Maximum yang dapat diberikan adalah %s ratus juta Silver.{nl}ⓘ Silahkan check official website kami untuk information detail.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.
 UI_20170912_002854	Tuesday 06:00	화요일 06:00
 UI_20170912_002855	{@st43b}{s18}Guild Emblem{/}	{@st43b}{s18}길드 엠블럼{/}
 UI_20170912_002856	{@st41b}{nl}Image %s{/}	{@st41b}{nl}이미지 %s{/}
-UI_20170912_002857	ⓘ The first emblem can be registered for free.{nl}ⓘ Changing the emblem costs %s0,000 Silver.{nl}ⓘ Your image must be sized %s and in %s format.{nl}ⓘ The file name must be composed of only alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.	ⓘ 길드 엠블럼의 최초 등록은 무료입니다.{nl}ⓘ 길드 엠블럼 변경시 %s만 실버가 사용됩니다.{nl}ⓘ 길드 엠블럼은 %s 크기의 %s 파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.
+UI_20170912_002857	ⓘ Emblem pertama bisa diregister secara gratis.{nl}ⓘ Mengubah emblem membutuhkan biaya %s0,000 Silver.{nl}ⓘ Image kamu harus berukuran %s dan dalam %s format.{nl}ⓘ Nama file harus hanya terdiri dari karakter alphanumeric.{nl}ⓘ Penggunaan images yang bermasalah bisa menyebabkan restrictions.	ⓘ 길드 엠블럼의 최초 등록은 무료입니다.{nl}ⓘ 길드 엠블럼 변경시 %s만 실버가 사용됩니다.{nl}ⓘ 길드 엠블럼은 %s 크기의 %s 파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.
 UI_20170912_002858	{@st43b}{s18}Hangout Entry Settings{/}	{@st43b}{s18}아지트 입장 설정{/}
 UI_20170912_002859	Allow Outsiders	외부인 입장 가능
 UI_20170912_002860	{@st43b}{s18}Guild News{/}	{@st43b}{s18}길드 공지{/}
 UI_20170912_002861	{@st66}{s18}Register{/}	{@st66}{s18}등록{/}
 UI_20170912_002862	{@st43b}{s18}Guild Notes{/}	{@st43b}{s18}길드 소개글{/}
 UI_20170912_002863	{@st43b}{s18}One-line Message Board{/}	{@st43b}{s18}한 줄 게시판{/}
-UI_20170912_002864	Max. 25 characters allowed.	최대 25자 까지 가능합니다.
-UI_20170912_002865	ⓘ You can post on the One-line Message Board 3 times a day.	ⓘ 한 줄 게시판은 하루 3회 등록 가능합니다.
+UI_20170912_002864	Max. 25 karakter yang diperbolehkan.	최대 25자 까지 가능합니다.
+UI_20170912_002865	ⓘ Kamu bisa post pada One-line Message Board 3 kali per hari.	ⓘ 한 줄 게시판은 하루 3회 등록 가능합니다.
 UI_20170912_002866	Guild Info	길드 정보
 UI_20170912_002867	Wars	전쟁
 UI_20170912_002868	Territory Wars	콜로니전
@@ -2881,77 +2881,77 @@ UI_20170912_002880	{@st59}Open Monster Cards Window{/}	{@st59}몬스터 카드�
 UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	{@st43}{s22}레티샤 시크릿 큐브{/}
 UI_20170912_002882	Cube Name	큐브 이름이다
 UI_20170912_002883	{nl}{img %s 40 40}{@st42b}{s20}Cubes  	{nl}{img %s 40 40}{@st42b}{s20}큐브 개봉  
-UI_20170912_002884	ⓘ See the official website and item descriptions for more info.	ⓘ확률성 아이템의 확률은 공식 홈페이지에서 확인할 수 있습니다.
+UI_20170912_002884	ⓘ Lihat official website dan deskripsi item untuk info detail.	ⓘ확률성 아이템의 확률은 공식 홈페이지에서 확인할 수 있습니다.
 UI_20170912_002885	{@st43}Equip Monster Cards{/}	{@st43}몬스터 카드 장착{/}
 UI_20170912_002886	{@st59}Close Equip Monster Cards{/}	{@st59}몬스터 카드 장착 UI를 닫습니다{/}
-UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	{@st59}팀내 유일한 템플러 직업을 가진 길드 마스터 캐릭터{/}
-UI_20170912_002888	{@st66b}Respawn in nearby city (30 seconds){/}	{@st66b}가까운 도시에서 부활하기 (30초){/}
+UI_20170912_002887	{@st59}Hanya Templar Guild Master dalam Team{/}	{@st59}팀내 유일한 템플러 직업을 가진 길드 마스터 캐릭터{/}
+UI_20170912_002888	{@st66b}Respawn di kota terdekat (30 detik){/}	{@st66b}가까운 도시에서 부활하기 (30초){/}
 UI_20170912_002889	{@st66b}Show Party Name{/}	{@st66b}파티 이름 표시{/}
 UI_20170912_002890	{@st66b}Recipe Material Obtained{/}	{@st66b}레시피 재료 획득 시 팝업{/}
 UI_20170912_002891	{@st43}PvP Settings{/}	{@st43}PVP 설정{/}
 UI_20170912_002892	{@st66b}Damage Font Scale (%s){/}	{@st66b}대미지 폰트 스케일 (%s){/}
 UI_20170912_002893	{@st66b}Show Tile Range{/}	{@st66b}장판 범위 표시{/}
-UI_20170912_002894	{@st66b}Use Attack Effects	{@st66b}타격 효과 사용
-UI_20170912_002895	{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}	{@st66b}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}
+UI_20170912_002894	{@st66b}Gunakan Attack Effect	{@st66b}타격 효과 사용
+UI_20170912_002895	{@st66b}Team name kamu merepresentasikan seluruh karakter kamu dan digunakan dalam trading, Guilds, chat, dan lainnya.{nl}Mengubah Team name kamu membutuhkan 150 TP, jadi pilihlah secara bijak.{/}	{@st66b}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}
 UI_20170912_002896	{@st41}%s Points	{@st41}%s 점수
 UI_20170912_002897	Text	텍스트
 UI_20170912_002898	Qtt.	몇
 UI_20170912_002899	{@st66b}Rank %s	{@st66b}%s위
 UI_20170912_002900	{@st66b}%s Points	{@st66b}%s점
 UI_20170912_002901	Maps	맵
-UI_20170912_002902	Type	타입
-UI_20170912_002903	Item Type	아이템 타입
+UI_20170912_002902	Tipe	타입
+UI_20170912_002903	Tipe Item	아이템 타입
 UI_20170912_002904	Latest Acquisition	가장 최근에 획득한 방법
-UI_20170912_002905	Location	획득처
-UI_20170912_002906	N/A	별별별
+UI_20170912_002905	Lokasi	획득처
+UI_20170912_002906	Star Star Star	별별별
 UI_20170912_002907	Shop Name	상점명
 UI_20170912_002908	Sales	매출
 UI_20170912_002909	Attribute	특성명
 UI_20170912_002910	Fish Name	물고기 이름
-UI_20170912_002911	Total %s Times Cleared	총 %s번 클리어
+UI_20170912_002911	Total %s Kali Cleared	총 %s번 클리어
 UI_20170912_002912	Area	지역 네임
 UI_20170912_002913	Map	맵네임
-UI_20170912_002914	Enter the name of the character or team.	검색하실 캐릭터 이름 또는 팀 이름을 입력하세요
-UI_20170912_002915	Name	이름이다
+UI_20170912_002914	Masukkan nama dari karakter atau team.	검색하실 캐릭터 이름 또는 팀 이름을 입력하세요
+UI_20170912_002915	Nama	이름이다
 UI_20170912_002916	Quest	퀘스트이름
 UI_20170912_002917	%s	%s개
 UI_20170912_002918	Title	칭호이름
-UI_20170912_002919	N/A	뭐라뭐라
+UI_20170912_002919	What?	뭐라뭐라
 UI_20170912_002920	Reward	보상템
-UI_20170912_002921	Additional +1 reward from Saalus Missions	살러스 수녀원 미션 완료 보상 +1
+UI_20170912_002921	Additional +1 reward dari Saalus Missions	살러스 수녀원 미션 완료 보상 +1
 UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}0TP 소모{nl}별 감소없이 카드 해제하기{/}
 UI_20170925_002923	Total Waiting Queue: %s	총 대기인원: %s
-UI_20170925_002924	Receiving information.	정보를 요청 중 입니다.
+UI_20170925_002924	Sedang meminta informasi.	정보를 요청 중 입니다.
 UI_20171128_002925	Close UI.	출석 UI를 닫습니다.
 UI_20171128_002926	Check Period	출석 체크 기간
-UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}
-UI_20171128_002928	{@st66b18}※ Name changes with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}
+UI_20171128_002927	* Hadiah login diberikan 1 hari 1 kali, dan hadiah otomatis masuk ke inventori karakter yang mengakses pertama kali pada hari tersebut.{nl}* Selain Enchant Scroll (14 Days), semua item lainnya dapat dipindahkan ke dalam team warehouse.{nl}* Hanya dapat mendapatkan reward selama periode pengecekan login, selebihnya tidak akan mendapatkan reward.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}
+UI_20171128_002928	{@st66b18}※ TP yang digunakan untuk merubah nama tidak dapat di-refund.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}
 UI_20171128_002929	Size%s	크기: %s
 UI_20171128_002930	{@st42b}Confirm	{@st42b}확인
 UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.
-UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 
-UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.
+UI_20171128_002932	ⓘ Spot reward dibagikan %s setiap minggunya.{nl}ⓘ Rewards termasuk  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 
+UI_20171128_002933	 dari Market fees kamu dari minggu sebelumnya.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ Jumlah Maximum yang dapat diberikan adalah %s ratus juta Silver.{nl}ⓘ Silahkan check official website kami untuk information detail.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.
 UI_20171128_002934	Auto Match%s	자동매칭%s
-UI_20171128_002935	{@st41b}Enter Now%s	{@st41b}바로입장%s
+UI_20171128_002935	{@st41b}Masuk Sekarang%s	{@st41b}바로입장%s
 UI_20171128_002936	{@st43}{#ffcc33}{s24}Clear	{@st43}{#ffcc33}{s24}클리어
 UI_20171128_002937	{@ST43}Cleared : 	{@st43}{s24}달성률 : 
-UI_20171128_002938	{@st43b}{s18}Received rewards	{@st43b}{s18}획득 보상
+UI_20171128_002938	{@st43b}{s18}Reward diperoleh	{@st43b}{s18}획득 보상
 UI_20171128_002939	{@st66d_y}Multiply Effect Reward x	{@st66d_y}배수권 효과 보상 x
 UI_20171128_002940	{img icon_item_silver 24 24} Silver	{img icon_item_silver 24 24} 실버
 UI_20171128_002941	{img icon_item_cube3 25 25} Cube	{img icon_item_cube3 25 25} 큐브
 UI_20171128_002942	{img test_indun_exp 30 15} EXP	{img test_indun_exp 30 15} 경험치
 UI_20171128_002943	{img test_indun_exp 30 15} Class EXP	{img test_indun_exp 30 15} 클래스 경험치
 UI_20171128_002944	{@st41b}Return	{@st41b}돌아가기
-UI_20171128_002945	Return to the entrance map.	입장 지역으로 돌아갑니다.
-UI_20171128_002946	Achievement Rate	인던 달성률
+UI_20171128_002945	Kembali pada area masuk.	입장 지역으로 돌아갑니다.
+UI_20171128_002946	Instance Dungeon Achievement Rate	인던 달성률
 UI_20171128_002947	{@st59}Special Costume{/}	{@st59}스페셜 코스튬{/}
 UI_20171128_002948	{@st43}Item Dismantle{/}	{@st43}아이템 분해{/}
-UI_20171128_002949	{@st43}{#ffcc33}Dismantle Complete{/}	{@st43}{#ffcc33}분해 완료{/}
-UI_20171128_002950	{@st41b}Dismantle Cost{/}	{@st41b}분해 비용{/}
-UI_20171128_002951	{@st41b}Dismantle Items{/}	{@st41b}분해 하기{/}
+UI_20171128_002949	{@st43}{#ffcc33}Dismantlement Selesai{/}	{@st43}{#ffcc33}분해 완료{/}
+UI_20171128_002950	{@st41b}Biaya Dismantlement{/}	{@st41b}분해 비용{/}
+UI_20171128_002951	{@st41b}Item Dismantle{/}	{@st41b}분해 하기{/}
 UI_20171128_002952	Item Re-Identification	아이템 재감정
 UI_20171128_002953	Re-Identify Item	재감정 하기
-UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance.	{@st43b}{s18}아이템을 올려주세요
+UI_20171128_002954	{@st43b}{s18}Masukkan item	{@st43b}{s18}아이템을 올려주세요
 UI_20171128_002955	{@st43b}{s18}Current Option	{@st43b}{s18}현재 옵션
 UI_20171128_002956	{@st43b}{s18}Before Change	{@st43b}{s18}변경 전
 UI_20171128_002957	{@st43b}{s18}After Change	{@st43b}{s18}변경 후
@@ -2959,22 +2959,22 @@ UI_20171128_002958	{@st43b}{s18}Material	{@st43b}{s18}재료
 UI_20171128_002959	{@st59}Change Companion Name{/}	{@st59}컴패니언 이름을 수정합니다{/}
 UI_20171128_002960	{@st43}Portal Shop{/}	{@st43}포탈 상점{/}
 UI_20171128_002961	{@st59}Close Portal Shop UI{/}	{@st59}포탈 상점 UI를 닫습니다{/}
-UI_20171128_002962	Selected Portal Quantity %s/%s 	선택한 포탈 개수 %s/%s 개
+UI_20171128_002962	Jumlah portal yang dipilih %s/%s buah 	선택한 포탈 개수 %s/%s 개
 UI_20171128_002963	{@st59}Close Portal Placed Shop UI{/}	{@st59}포탈 상점 등록 UI를 닫습니다{/}
-UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}
-UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}
-UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}It cannot be used repeatedly.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.
-UI_20171128_002967	* In addition, rank down cannot be used at a rank lower{nl}than a rank it has already been used at.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.
-UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted back into points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.
-UI_20171128_002969	* Class-specific costumes received through rank advancement{nl}will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.
-UI_20171128_002970	* You will return to the barracks after confirming.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.
+UI_20171128_002964	Batalkan job advancement terakhir dan kembali ke awal?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}
+UI_20171128_002965	Membatalkan class advancement saat ini dan kembali ke awal sebelum advancement.{nl}Class EXP hilang.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}
+UI_20171128_002966	* Rank Down hanya dapat digunakan satu kali pada rank yang sama dan{nl}tidak dapat digunakan secara terus menerus.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.
+UI_20171128_002967	* Kemudian Rank Down tidak dapat digunakan pada rank yang lebih rendah{nl}dibandingkan rank yang digunakan.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.
+UI_20171128_002968	* Class yang dihapus atau circle-nya turun akibat reset{nl}akan mendapatkan kembali skill dan attribute point.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.
+UI_20171128_002969	* Class yang dihapus secara menyeluruh akibat reset{nl}maka kostum job advancement sebelumnya akan dihapus.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.
+UI_20171128_002970	* Setelah reset akan berpindah ke jendela pemilihan karakter.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.
 UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}
-UI_20171128_002972	{@st66b}Simplify Buff Effects{/}	{@st66b}버프 이펙트 간소화{/}
-UI_20171128_002973	{@st66b}Simplify Models{/}	{@st66b}모델 간소화{/}
+UI_20171128_002972	{@st66b}Simple Buff Effect{/}	{@st66b}버프 이펙트 간소화{/}
+UI_20171128_002973	{@st66b}Simple Model{/}	{@st66b}모델 간소화{/}
 UI_20171128_002974	{@st59}Attendance Reward Check{/}	{@st59}출석 보상 확인{/}
 UI_20171128_002975	Returning to the previous class.	해당 클래스를 이전으로 되돌립니다.
-UI_20171128_002976	Map name	맵이름
-UI_20171128_002977	{@st42b}Use	{@st42b}이용하기
+UI_20171128_002976	Nama Map	맵이름
+UI_20171128_002977	{@st42b}Gunakan	{@st42b}이용하기
 UI_20171128_002978	Raid Dungeon Entry Item Consume Quantity -2	레이드 던전 입장 아이템 소모 개수 -2
 UI_20180108_002979	{@st59}Effect Costume{/}	{@st59}이펙트 코스튬{/}
 UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}
@@ -2984,34 +2984,34 @@ UI_20180115_002983	{@st66d_y}Items will become untradable{/}	{@st66d_y}거래 �
 UI_20180115_002984	{@st42}Items remain tradable and can be team storaged{/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}
 UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}
 UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}
-UI_20180208_002987	{@st59}Close{/}	{@st59}전직 정보 창을 닫습니다{/}
-UI_20180208_002988	Acquired Item	획득 아이템
+UI_20180208_002987	{@st59}Menutup jendela informasi Job Change{/}	{@st59}전직 정보 창을 닫습니다{/}
+UI_20180208_002988	Item yang diperoleh	획득 아이템
 UI_20180208_002989	Server	서버
-UI_20180208_002990	Character Name	캐릭터명
-UI_20180208_002991	Reason	사유
-UI_20180208_002992	{@st43}{s24}Report Problematic Player	{@st43}{s24}불량유저 신고
-UI_20180208_002993	{@st41b}Report	{@st41b}신고
-UI_20180208_002994	Report.	신고합니다.
-UI_20180208_002995	Cancel.	취소합니다.
-UI_20180208_002996	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Materials / Required Maximum{nl}- If successful, Transcendence level increases by 1 (max. 10){nl}- If failed, Transcendence level along with potential decrease by 1 (Transcendence level does not go below 1){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 속성이 팀 창고 이동 및 거래 불가로 변경됨{/}
-UI_20180208_002997	Transcendence Success Chance 100%	초월 성공률 100%
-UI_20180208_002998	* Transcendence could fail if success rate is not 100%.{nl}Potential is reduced upon failure.	* 초월 성공률이 100%가 아닐 경우 실패 할 수도 있습니다. {nl}실패시 포텐셜이 소모됩니다.
-UI_20180208_002999	Extract Blessed Shard	축복받은 조각 추출
-UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}	{@st59b}축복받은 조각 추출{nl}{@st59s}- 초월아이템에서 축복받은 조각 추출{nl}- 축복받은 조각 추출 재료 : 분해의 망치{nl}- 축복받은 조각 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 축복받은 조각으로 되돌려 받을 수 있습니다. {nl}   : 초월에 사용된 축복석의 90%를 환급 받을 수 있습니다.{nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}
-UI_20180208_003001	Blessed Shard Extraction Result	축복받은 조각 추출 결과
-UI_20180208_003002	{@st43b}{s18}Applied Effect{/}	{@st43b}{s18}적용효과{/}
-UI_20180208_003003	{@st43b}{s20}Applied Effect{/}	{@st43b}{s20}적용효과{/}
-UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}
-UI_20180208_003005	*You cannot rank down if you have{nl}unused Rank Cards or Class EXP Cards.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.
-UI_20180208_003006	*Common attributes such as Weapon Swap will also be reset,{nl}and attribute points will be returned.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.
-UI_20180208_003007	{@st43}{s22}Add Socket{/}	{@st43}{s22}소켓 추가{/}
-UI_20180208_003008	{@st59}Cancel{/}	{@st59}사용을 취소합니다{/}
-UI_20180208_003009	{@st41}{s20}Current Sockets:{@st43} %s / {@st43}%s	{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s
-UI_20180208_003010	{@st41}{s20}New Socket Price: %s	{@st41}{s20}소켓 추가 가격 : %s
-UI_20180208_003011	{@st41b}Add Socket{/}	{@st41b}소켓 추가{/}
-UI_20180208_003012	{@st59}Add Socket.{/}	{@st59}소켓을 추가 합니다.{/}
-UI_20180208_003013	{@st59}Advancement Info{/}	{@st59}전직 정보{/}
-UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}
+UI_20180208_002990	Nama karakter	캐릭터명
+UI_20180208_002991	Alasan	사유
+UI_20180208_002992	{@st43}{s24}Laporkan user yang buruk	{@st43}{s24}불량유저 신고
+UI_20180208_002993	{@st41b}Lapor	{@st41b}신고
+UI_20180208_002994	Lapor.	신고합니다.
+UI_20180208_002995	Batal.	취소합니다.
+UI_20180208_002996	{@st59b}Item Transcendence{nl}{@st59s}- Meningkatkan performa item tanpa anvil{nl}- Equipment yang dapat di-transcendence : Weapon, Armor, Accessory{nl}- Tingkat keberhasilan Transcendence = jumlah bahan yang digunakan / max bahan yang diperlukan{nl}- Saat berhasil, tingkat transcendence naik 1(max 10 tingkat){nl}- Saat gagal, Transcendence dan potensi berkurang 1(nilai transcendence tidak dapat turun di bawah 1){nl}- Equipment yang di-transcendence tidak dapat ditrade maupun dipindahkan ke team warehouse{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 속성이 팀 창고 이동 및 거래 불가로 변경됨{/}
+UI_20180208_002997	Tingkat keberhasilan transcendence 100%	초월 성공률 100%
+UI_20180208_002998	* Bila tingkat keberhasilan tidak mencapai 100%, maka terdapat kemungkinan gagal.	* 초월 성공률이 100%가 아닐 경우 실패 할 수도 있습니다. {nl}실패시 포텐셜이 소모됩니다.
+UI_20180208_002999	Ekstraksi Blessed Shard	축복받은 조각 추출
+UI_20180208_003000	{@st59b}Ekstraksi Blessed Shard{nl}{@st59s}- Ekstraksi Blessed Shard dari item transcendence{nl}- Bahan ekstraksi Blessed Shard : Hammer of Dismantlement.{nl}- Saat ekstraksi Blessed Shard maka item tersebut akan hilang, dan Blessed Stone yang digunakan sebagian akan diekstrak kembali menjadi Blessed Shard.{nl} : Dapat menerima setara dengan 90% dari jumlah Blessed Stone yang digunakan untuk Transcendence.{nl}- Ekstraksi hanya dapat dilakukan pada transcendence tahap  2 atau lebih.{/}	{@st59b}축복받은 조각 추출{nl}{@st59s}- 초월아이템에서 축복받은 조각 추출{nl}- 축복받은 조각 추출 재료 : 분해의 망치{nl}- 축복받은 조각 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 축복받은 조각으로 되돌려 받을 수 있습니다. {nl}   : 초월에 사용된 축복석의 90%를 환급 받을 수 있습니다.{nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}
+UI_20180208_003001	Hasil Ekstraksi Blessed Shard	축복받은 조각 추출 결과
+UI_20180208_003002	{@st43b}{s18}Efek yang diterapkan{/}	{@st43b}{s18}적용효과{/}
+UI_20180208_003003	{@st43b}{s20}Efek yang diterapkan{/}	{@st43b}{s20}적용효과{/}
+UI_20180208_003004	{@st59}Melihat opsi dari Monster Card{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}
+UI_20180208_003005	* Setelah reset, apabila terdapat Rank Card dan Class Class EXP Cards yang tidak digunakan{nl} maka rank down tidak dapat dilakukan.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.
+UI_20180208_003006	* Saat reset, attribute umum seperti weapon swap juga direset,{nl}dan semua attribute point akan dikembalikan.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.
+UI_20180208_003007	{@st43}{s22}Tambah Socket{/}	{@st43}{s22}소켓 추가{/}
+UI_20180208_003008	{@st59}Penggunaan dibatalkan{/}	{@st59}사용을 취소합니다{/}
+UI_20180208_003009	{@st41}{s20}Status socket saat ini:{@st43} %s / {@st43}%s	{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s
+UI_20180208_003010	{@st41}{s20}Biaya penambahan socket: %s	{@st41}{s20}소켓 추가 가격 : %s
+UI_20180208_003011	{@st41b}Tambah socket{/}	{@st41b}소켓 추가{/}
+UI_20180208_003012	{@st59}Menambah socket.{/}	{@st59}소켓을 추가 합니다.{/}
+UI_20180208_003013	{@st59}Informasi Job Change{/}	{@st59}전직 정보{/}
+UI_20180208_003014	{@st66b}Tampilkan nama item drop{/}	{@st66b}드롭 아이템 이름 표시{/}
 UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}레벨 감소없이 카드 해제하기{/}
 UI_20180320_003016	Level 1 cards do not consume Silver.	1레벨 카드는 실버가 소모되지 않습니다.
 UI_20180320_003017	Recruiting guild quest participants.	길드 퀘스트 참가자를 모집하고 있습니다.
