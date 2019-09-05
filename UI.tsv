@@ -255,6 +255,51 @@ UI_20150317_000254	{@st59}Batalkan perubahan{/}	{@st59}입력을 취소합니다
 UI_20150317_000255	{@st43}Warp{/}	{@st43}워프{/}				
 UI_20150317_000256	{@st59}Tutup Window Warp{/}	{@st59}워프 창을 닫습니다{/}				
 UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems dapat warp untuk pergi ke"	{@st59b}워프{nl}{@st59s} - 자신이 방문한 지역으로 워프할 수 있는 시스템{nl} - 워프가 2개이상일때 워프 기능 활성화{nl}{/}
+UI_20150317_000213	{@st41b}Show Online{/}	
+UI_20150317_000214	{@st41b}List	
+UI_20150317_000215	{@st41b}Manage	
+UI_20150317_000216	{@st41b}Send Friend Request	
+UI_20150317_000217	{@st41b}Block	
+UI_20150317_000218	{@st59}Search{/}	
+UI_20150317_000219	{@st44}Guild{/}	
+UI_20150317_000220	Guild	
+UI_20150317_000221	List	
+UI_20150317_000222	News	
+UI_20150317_000223	Guild Mission	
+UI_20150317_000224	Members Online	
+UI_20150317_000225	{@st44}Create Guild{/}	
+UI_20150317_000226	{@st42}Create{/}	
+UI_20150317_000227	{@st42}Close{/}	
+UI_20150317_000228	{@st42}All{/}	
+UI_20150317_000229	{@st42}Today's Rankings{/}	
+UI_20150317_000230	{@st42}Weekly Rankings{/}	
+UI_20150317_000231	{@st56}Rank {/}	
+UI_20150317_000232	{@st56}Points{/}	
+UI_20150317_000233	{@st56}Class{/}	
+UI_20150317_000234	{@st56}Name {/}	
+UI_20150317_000235	Previous Page	
+UI_20150317_000236	Next Page	
+UI_20150317_000237	{@st42}Search ID{/}	
+UI_20150317_000238	Enter the ID to search	
+UI_20150317_000239	Close the Hall of Fame	
+UI_20150317_000240	Enter the ID to search	
+UI_20150317_000241	{@st59} Stamina {/}	
+UI_20150317_000242	{@st43}Help List{/}	
+UI_20150317_000243	{@st59}Close{/}	
+UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}	
+UI_20150317_000245	{@st43}{s22}Help{/}	
+UI_20150317_000246	{@st47_b}{b}Help Topics{/}	
+UI_20150317_000247	{@st42b}Simple Help Contents{/}	
+UI_20150317_000248	{@st59}View details{/}	
+UI_20150317_000249	Please enter a quantity	
+UI_20150317_000250	{@st59}Enter the contents{/}	
+UI_20150317_000251	{@st41b}Confirm	
+UI_20150317_000252	{@st59}Confirm {/}	
+UI_20150317_000253	{@st41b}Close	
+UI_20150317_000254	{@st59}Cancel {/}	
+UI_20150317_000255	{@st43}Warp{/}	
+UI_20150317_000256	{@st59}Close{/}	
+UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}	
 UI_20150317_000258	{@st41}Current Location : %s{/}	{@st41}현재 위치 : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}	{@st43}{s22}워프{/}
 UI_20150317_000260	{@st41b}Mau pindah ke area ini?{/}	{@st41b}이 지역으로 이동하시겠습니까?{/}
@@ -300,6 +345,42 @@ UI_20150317_000299	38000 points	38000 점
 UI_20150317_000300	Enhanced Speed Potion	향상된 신속의 물약				
 UI_20150317_000301	{@st41}OK {/}	{@st41}확 인{/}				
 UI_20150317_000302	{@st59b} adventure journal {nl} {@st59s} - Adventurer journal mencatat pencapaian dalam petualangan {nl} - item yang didapat, monster, "	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}
+UI_20150317_000267	{@st59}Hair Costume 1{/}	
+UI_20150317_000268	{@st59}Hair Costume 2{/}	
+UI_20150317_000269	{@st59}Necklace{/}	
+UI_20150317_000270	{@st59}Costume{/}	
+UI_20150317_000271	{@st59}Top{/}	
+UI_20150317_000272	{@st59}Gloves{/}	
+UI_20150317_000273	{@st59}Bottom{/}	
+UI_20150317_000274	{@st59}Shoes{/}	
+UI_20150317_000275	{@st59}Left hand{/}	
+UI_20150317_000276	{@st59}Right hand{/}	
+UI_20150317_000277	{@st59}Bracelet 1{/}	
+UI_20150317_000278	{@st59}Bracelet 2{/}	
+UI_20150317_000279	{@st59}Armband{/}	
+UI_20150317_000280	{@st59}Search{/}	
+UI_20150317_000281	Weight	
+UI_20150317_000282	{@st43}Equipment Buff{/}	
+UI_20150317_000283	{@st59}Close{/}	
+UI_20150317_000284	{@st42}Available for Buff	
+UI_20150317_000285	{@st42}Consume{/}	
+UI_20150317_000286	{@st42}Run	
+UI_20150317_000287	{@st42}Target Item{/}	
+UI_20150317_000288	{@st59}Ring 1{/}	
+UI_20150317_000289	{@st43}Item Crafting{/}	
+UI_20150317_000290	{@st42b}Show Craftable Items{/}	
+UI_20150317_000291	{@st59}Close{/}	
+UI_20150317_000292	{@st43}{s22}Split Item	
+UI_20150317_000293	{@st59}Enter a quantity{/}	
+UI_20150317_000294	Monster HP Bar	
+UI_20150317_000295	{@st44}Item Set acquired{/}	
+UI_20150317_000296	Keyboard Warrior	
+UI_20150317_000297	Kills	
+UI_20150317_000298	99 minutes 99 seconds	
+UI_20150317_000299	38000 points	
+UI_20150317_000300	Enhanced Speed Potion	
+UI_20150317_000301	{@st41}Confirm{/}	
+UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}	
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}	{@sti7}{s22}{ds}모험지수 달성도{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s points{/}	{@st42b}{#22FF22}상위 10% / %s점{/}
 UI_20150317_000305	{@st42b} average / %s points {/}	{@st42b}전체 평균 /  %s점{/}
@@ -475,6 +556,46 @@ UI_20150317_000474	{Gr gradation1}Batal{/}	{gr gradation1}취소{/}
 UI_20150317_000475	Batalkan Action	작업을 취소합니다				
 UI_20150317_000476	{@st43}Companion Info	{@st43}컴패니언 정보				
 UI_20150317_000477	{@st59b} Companion info {nl} {@st59s} - Tombol sleep / activity dapat diletakkan pada companion minus {nl} - characteristics dari companion, items "	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}
+UI_20150317_000438	{@st43}Party Information{/}	
+UI_20150317_000439	{@st41b}Members{/}	
+UI_20150317_000440	{@st41b}Party Event {/}	
+UI_20150317_000441	{@st41b}Settings{/}	
+UI_20150317_000442	{@st41}Members{/}	
+UI_20150317_000443	{@st41}Requirements for joining this party	
+UI_20150317_000444	{@st41b}Public	
+UI_20150317_000445	{@st41b}Private	
+UI_20150317_000446	Wish Level                                ~	
+UI_20150317_000447	{@st41}Loot Distribution	
+UI_20150317_000448	{@st41b}Free for all	
+UI_20150317_000449	{@st41b}Round Robin	
+UI_20150317_000450	{@st41b}Random	
+UI_20150317_000451	{@st41}EXP Distribution	
+UI_20150317_000452	{@st41b}Individual EXP	
+UI_20150317_000453	{@st41b}Equal EXP	
+UI_20150317_000454	{@st41b}By Level	
+UI_20150317_000455	{@st41}Quest Sharing	
+UI_20150317_000456	{@st41b}Use	
+UI_20150317_000457	{@st41b}Don't Use	
+UI_20150317_000458	{@st41b}Create Party	
+UI_20150317_000459	{@st43}Public Party List {/}	
+UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}	
+UI_20150317_000461	{@st59}Close Party List{/}	
+UI_20150317_000462	Use Search	
+UI_20150317_000463	Quest Sharing	
+UI_20150317_000464	EXP Distribution	
+UI_20150317_000465	Item Distribution	
+UI_20150317_000466	{@st43}Invite	
+UI_20150317_000467	{@st41b}Invite{/}	
+UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}	
+UI_20150317_000469	{ol}Conditions for applying rules	
+UI_20150317_000470	{ol}Action for applying rules	
+UI_20150317_000471	Enter a name for the rule	
+UI_20150317_000472	{Gr gradation1}Registration{/}	
+UI_20150317_000473	Register Rules	
+UI_20150317_000474	{Gr gradation1}Cancel{/}	
+UI_20150317_000475	Cancel Action	
+UI_20150317_000476	{@st43}Companion Info	
+UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}	
 UI_20150317_000478	{@st59}Tutup Companion Info{/}	{@st59}컴패니언 정보를 닫습니다{/}
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}
 UI_20150317_000480	Friendship{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}
@@ -647,6 +768,136 @@ UI_20150317_000646	{@st41}Buat	{@st41}만들기
 UI_20150317_000647		{@st43}클래스 스킬과 특성{/}				
 UI_20150317_000648		{@st59}클래스와 스킬을 닫습니다{/}				
 UI_20150317_000649	{@st59b}Class {nl}{@st59s}-Membangun class circles untuk mendapat skills {nl} "	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}
+UI_20150317_000520	{@st41b}In Progress{/}	
+UI_20150317_000521	{@st41b}Abandoned{/}	
+UI_20150317_000522	{@st43}{s22}Quest Information{/}	
+UI_20150317_000523	Mission Complete	
+UI_20150317_000524	{@st41}Complete{/}	
+UI_20150317_000525	Mission Progress Info	
+UI_20150317_000526	{s18}{ol}Quest Information	
+UI_20150317_000527	{s16}Time Left	
+UI_20150317_000528	Use quest item	
+UI_20150317_000529	Quest Hint	
+UI_20150317_000530	{@st41}Confirm{/}	
+UI_20150317_000531	{@st43}{s22}Quest Completed{/}	
+UI_20150317_000532	{@st41b}Complete{/}	
+UI_20150317_000533	{@st41}Accept{/}	
+UI_20150317_000534	{@st41}Decline{/}	
+UI_20150317_000535	{@st44}Go Back{/}	
+UI_20150317_000536	Which quest would you like to go back to?	
+UI_20150317_000537	{@st41b}Quest class name{/}	
+UI_20150317_000538	{@st59}Expand Slots{/}	
+UI_20150317_000539	{@st59}Reduce Slots{/}	
+UI_20150317_000540	{@st59}Summon Companion.{/}	
+UI_20150317_000541	{@st44}Menu{/}	
+UI_20150317_000542	{@st60}Character Selection{/}	
+UI_20150317_000543	{@st60}Logout{/}	
+UI_20150317_000544	{@st60}Quit Game{/}	
+UI_20150317_000545	{@st60}Game Settings{/}	
+UI_20150317_000546	{@st60}Go Back{/}	
+UI_20150317_000547	{@st41}Skip Tutorial{/}	
+UI_20150317_000548	{@st41}Character Selection{/}	
+UI_20150317_000549	{@st41}Logout{/}	
+UI_20150317_000550	{@st41}Quit Game{/}	
+UI_20150317_000551	{@st41}Go Back{/}	
+UI_20150317_000552	{@st43}{s22}Gather for the raid!	
+UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.	
+UI_20150317_000554	{@st43}{s22}Game Settings{/}	
+UI_20150317_000555	{@sti7}Searching for a raid party...{/}	
+UI_20150317_000556	{@st41b}Cancel participation	
+UI_20150317_000557	{@st41b}I'll do something about it!	
+UI_20150317_000558	{@st41b}I don't think I can help this time...	
+UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}	
+UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}	
+UI_20150317_000561	{@st41b}Increase the number of selections	
+UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}	
+UI_20150317_000563	shadow_box tentativeremoval	
+UI_20150317_000564	{@st43}Ranking{/}	
+UI_20150317_000565	{@st59}Close{/}	
+UI_20150317_000566	{@st41}Monster Kill Top 100{/}	
+UI_20150317_000567	{@st41}Damage Top 100{/}	
+UI_20150317_000568	{@st41}Money Money Top 100{/}	
+UI_20150317_000569	{@st41}Level Up Top 100{/}	
+UI_20150317_000570	{@st41b}Menu{/}	
+UI_20150317_000571	{@st43}{s22}Enhance Item{/}	
+UI_20150317_000572	{@st41b}Selected Item	
+UI_20150317_000573	{@st41b}Anvil	
+UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s	
+UI_20150317_000575	{@st41} {s20}Price : %s	
+UI_20150317_000576	{@st41b}Enhance{/}	
+UI_20150317_000577	{@st59}Start Item Enhancement{/}	
+UI_20150317_000578	{@st59}Close{/}	
+UI_20150317_000579	{@st41b}              Enhance with the {@sti9}×%s{/} selected items?{/}	
+UI_20150317_000580	{@st43}Enhancement	
+UI_20150317_000581	{@st44}Enhance Item{/}	
+UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!	
+UI_20150317_000583	{@st41}Enhance Again{/}	
+UI_20150317_000584	{@st41}Close{/}	
+UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}	
+UI_20150317_000586	Equipped Equipment	
+UI_20150317_000587	Equipment in the Inventory	
+UI_20150317_000588	{Gr gradation1}Select All{/}	
+UI_20150317_000589	Select All	
+UI_20150317_000590	{Gr gradation1}Repair{/}	
+UI_20150317_000591	{@st43}Repair{/}	
+UI_20150317_000592	List of repairable items	
+UI_20150317_000593	{@st41b}Repair Cost{/}	
+UI_20150317_000594	{@st41b}Remaining Amount{/}	
+UI_20150317_000595	{@st41b}Repair{/}	
+UI_20150317_000596	Repair the selected equipment.	
+UI_20150317_000597	{@st59}Close Item Repair{/}	
+UI_20150317_000598	{@st43}Item Reinforcing{/}	
+UI_20150317_000599	{@st41}List of reinforceable items{/}	
+UI_20150317_000600	{@st44}Reinforce the Item{/}	
+UI_20150317_000601	{@st42}Reinforce{/}	
+UI_20150317_000602	{@st59}Reinforce with the current settings{/}	
+UI_20150317_000603	{@st59}Do not Reinforce{/}	
+UI_20150317_000604	{@st44}Resume{/}	
+UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapacitated{/}{@st41b}{/}	
+UI_20150317_000606	{@st41b}Respawn at the nearest Revival Point{/}	
+UI_20150317_000607	{@st41b}Respawn here (requires %s TPs) {/}	
+UI_20150317_000608	{@st41b}Return to field{/}	
+UI_20150317_000609	{@st41b}Abandon quest and restart{/}	
+UI_20150317_000610	{@st41b}Try again{/}	
+UI_20150317_000611	Sanctuary of Resurrection (70031)	
+UI_20150317_000612	Required item is missing.	
+UI_20150317_000613	Rest Quickslot	
+UI_20150317_000614	{@st43}Dialog box{/}	
+UI_20150317_000615	Temporary Name	
+UI_20150317_000616	{@st41b} {s18} Insufficient Inventory Space 	
+UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}Please free up some space in your inventory.	
+UI_20150317_000618	{@st44}Set Item acquired!{/}	
+UI_20150317_000619	Please select an item	
+UI_20150317_000620	{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}	
+UI_20150317_000621	{@st59}Close{/}	
+UI_20150317_000622	{@st59}First Page{/}	
+UI_20150317_000623	{@st59}Next Page{/}	
+UI_20150317_000624	{@st59}Last Page{/}	
+UI_20150317_000625	{@st41b}Reset{/}	
+UI_20150317_000626	{@st59}Reset Shopping Cart{/}	
+UI_20150317_000627	{@st41b}Confirm{/}	
+UI_20150317_000628	{@st59}Confirm Transaction{/}	
+UI_20150317_000629	{@st43}Shop{/}	
+UI_20150317_000630	{@st41b}Items Bought{/}	
+UI_20150317_000631	{@st41b}Items Sold{/}	
+UI_20150317_000632	{@st41b}Price{/}	
+UI_20150317_000633	{@st41b}Balance{/}	
+UI_20150317_000634	{@st41b}My Sold Items{/}	
+UI_20150317_000635	{@st41}Empty slots{/}	
+UI_20150317_000636	{@st43}Total{/}	
+UI_20150317_000637	{@st41}Settle Transaction{/}	
+UI_20150317_000638	{@st41}After Transaction{/}	
+UI_20150317_000639	{@st41}Items purchased{/}	
+UI_20150317_000640	{@sti1c}Simony	
+UI_20150317_000641	{@st41}Crafting Skills	
+UI_20150317_000642	{@st42}Level %s{/}	
+UI_20150317_000643	Crafting costs	
+UI_20150317_000644	Crafting Qty	
+UI_20150317_000645	Approximately %s seconds required	
+UI_20150317_000646	{@st41}Craft	
+UI_20150317_000647	{@st43}Skills & Attributes{/}	
+UI_20150317_000648	{@st59}Close Classes & Skills{/}	
+UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}	
 UI_20150317_000650	{@st41b}Apply{/}	{@st41b}적용{/}
 UI_20150317_000651	{@st59}Simpan perubahan skill points{/}	{@st59}스킬 포인트를 적용합니다{/}
 UI_20150317_000652	Cleric	큘레릭
@@ -1013,6 +1264,312 @@ UI_20150317_001012	{@St59}Tutup menu untuk memasukan Nama Team{/}	{@st59}팀 이
 UI_20150317_001013	{@St59}Membuat Team dengan nama yang dipilih{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Masukkan nama Teammu!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
 UI_20150317_001015	{@St41b}Nama tim adalah nama yang mewakilkan semua character.{nl}Nama Team "	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}
+UI_20150317_000710	{@st41b}Info{/}	
+UI_20150317_000711	{@st41b}Title{/}	
+UI_20150317_000712	Show Class	
+UI_20150317_000713	Show Character Name	
+UI_20150317_000714	{@st59}Change Character Name{/}	
+UI_20150317_000715	{@st41b}Apply	
+UI_20150317_000716	{@st59}Apply{/}	
+UI_20150317_000717	{@st41b}Cancel	
+UI_20150317_000718	{@st59}Cancel{/}	
+UI_20150317_000719	PC Name	
+UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}	
+UI_20150317_000721	{@st41_yellow}Mercenary Skills	
+UI_20150317_000722	{@st43}Attack Effects{/}	
+UI_20150317_000723	{@st43}Defense Effects{/}	
+UI_20150317_000724	{@st43}Stat{/}	
+UI_20150317_000725	systemmenu_vertical tentative removal	
+UI_20150317_000726	{@st59}Character Information (F1){/}	
+UI_20150317_000727	{@st59}Inventory (F2){/}	
+UI_20150317_000728	{@st59}Classes & Skills (F3){/}	
+UI_20150317_000729	{@st59}Adventure Journal (F4){/}	
+UI_20150317_000730	{@st59}Quests (F5){/}	
+UI_20150317_000731	{@st59}Party (F6){/}	
+UI_20150317_000732	{@st59}Friends (F7){/}	
+UI_20150317_000733	{@st59}Macro (F8) {/}	
+UI_20150317_000734	{@st59}Companion (F9) {/}	
+UI_20150317_000735	{@st59}Help (F10) {/}	
+UI_20150317_000736	{@st59}System Menu (Esc){/}	
+UI_20150317_000737	{@st59}Necronomicon{/}	
+UI_20150317_000738	Help (F1)	
+UI_20150317_000739	Contents	
+UI_20150317_000740	View Details	
+UI_20150317_000741	{@st43}Game Settings{/}	
+UI_20150317_000742	{@st43}Game{/}	
+UI_20150317_000743	{@st41b}Show Gained EXP{/}	
+UI_20150317_000744	{@st41b}Show Character Name{/}	
+UI_20150317_000745	{@st41b}Show Team Name only{/}	
+UI_20150317_000746	{@st41b}Show Quest Guide{/}	
+UI_20150317_000747	{@st43}Resolution{/}	
+UI_20150317_000748	{@st43}Graphics{/}	
+UI_20150317_000749	{@st41b}Full Screen{/}	
+UI_20150317_000750	{@st41b}Windowed Mode{/}	
+UI_20150317_000751	{@st43}Sound{/}	
+UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}	
+UI_20150317_000753	{@st41b}BGM Volume (%s){/}	
+UI_20150317_000754	{@st41b}Volume (%s){/}	
+UI_20150317_000755	{@st43}{b}Select Language{/}	
+UI_20150317_000756	{@st59}Close{/}	
+UI_20150317_000757	{@st41b}Min.requirement Mode {/}	
+UI_20150317_000758	{@st41b}View{/}	
+UI_20150317_000759	{@st59}Credits{/}	
+UI_20150317_000760	Target buff window	
+UI_20150317_000761	{@st46}IMC's picture	
+UI_20150317_000762	{@st46}%s's picture	
+UI_20150317_000763	{@st46}Like	
+UI_20150317_000764	{@st46}Report	
+UI_20150317_000765	{@st46}Use preservatives	
+UI_20150317_000766	{@st46}Remove Picture	
+UI_20150317_000767	Snow Hallucination	
+UI_20150317_000768	Bouquet	
+UI_20150317_000769	{@st41} Gifts	
+UI_20150317_000770	Please enter a quantity	
+UI_20150317_000771	{@st53b}%s Wins %s Losses	
+UI_20150317_000772	{@st42}Today's Schedule	
+UI_20150317_000773	{@st53}Until Start :	
+UI_20150317_000774	{@st53b}Gifts received : ×%s	
+UI_20150317_000775	{@st43b}Send gift to %s{/}	
+UI_20150317_000776	{@st55_a}Next game	
+UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift	
+UI_20150317_000778	Center camera to my character	
+UI_20150317_000779	{@st55_a}Congratulations!	
+UI_20150317_000780	{@st42}Switch Camera	
+UI_20150317_000781	{@st44}Adventure Journal{/}	
+UI_20150317_000782	{@st59}Change View Settings{/}	
+UI_20150317_000783	{@st41}Statistics {/}	
+UI_20150317_000784	{@st41}Crafting {/}	
+UI_20150317_000785	{@st41}Hunt {/}	
+UI_20150317_000786	{@st41}Help {/}	
+UI_20150317_000787	{@st44}Wiki Page{/}	
+UI_20150317_000788	{@st42}Information{/}	
+UI_20150317_000789	{@st42}Details{/}	
+UI_20150317_000790	{@st42}Combat{/}	
+UI_20150317_000791	{@st42}Acquire{/}	
+UI_20150317_000792	{@st59}Close Page{/}	
+UI_20150317_000793	{@st43}Battlefield	
+UI_20150317_000794	{@st59}Close Battlefield.	
+UI_20150317_000795	(Bronze 3)	
+UI_20150317_000796	{@sti8}Points acquirable today : {nl}%s{/}	
+UI_20150317_000797	{@st41}Point Shop	
+UI_20150317_000798	{@st41}Ranking	
+UI_20150317_000799	{@st42}Battlefield schedule	
+UI_20150317_000800	{@st42}Recent Records	
+UI_20150317_000801	{@st41}Receive EXP	
+UI_20150317_000802	{@st41}PvP Page	
+UI_20150317_000803	{@st41}Search	
+UI_20150317_000804	{@st43}Battlefield Rankings	
+UI_20150317_000805	{@st59}Close Battlefield rankings	
+UI_20150317_000806	{@st56}Skill Name{/}	
+UI_20150317_000807	{@st41}Check coordinates{/}	
+UI_20150317_000808	{@st41}Find{/}	
+UI_20150317_000809	{@st42b}Manage monster regen{/}	
+UI_20150317_000810	{@st42b}Monster List{/}	
+UI_20150317_000811	{@st42b}Create UI{/}	
+UI_20150317_000812	{@st42b}Map Fog{/}	
+UI_20150317_000813	{@st42b}Create Map{/}	
+UI_20150317_000814	{@st42b}Create Minimap{/}	
+UI_20150317_000815	{@st42b}Dialog {/}	
+UI_20150317_000816	{@st42b}Change Quest Rewards{/}	
+UI_20150317_000817	{@st42b}Group regen{/}	
+UI_20150317_000818	{@st42b}Set map location{/}	
+UI_20150317_000819	{@st42b}Skills map{/}	
+UI_20150317_000820	{@st42b}List of events{/}	
+UI_20150317_000821	{@st42b}Check coordinates{/}	
+UI_20150317_000822	{@st42b} Check XAC, texture path{/}	
+UI_20150317_000823	{@st42b}Performance ON/OFF{/}	
+UI_20150317_000824	Dialog list	
+UI_20150317_000825	Search	
+UI_20150317_000826	{@st41}Preview{/}	
+UI_20150317_000827	{@st41}Off{/}	
+UI_20150317_000828	{@st41}Remove{/}	
+UI_20150317_000829	{@st41}Save all{/}	
+UI_20150317_000830	{@st41}Apply picture{/}	
+UI_20150317_000831	{#FFFFFF}{ds}Select Event	
+UI_20150317_000832	{#FFFFFF}{ds}Edit Event	
+UI_20150317_000833	{ol}List	
+UI_20150317_000834	The name of the group to save	
+UI_20150317_000835	{@st42}Create New{/}	
+UI_20150317_000836	{@st41}Group regen{/}	
+UI_20150317_000837	{@st59}Enter monster name to search{/}	
+UI_20150317_000838	{@st59}Enter group name to save{/}	
+UI_20150317_000839	{@st41}New group{/}	
+UI_20150317_000840	Filtering	
+UI_20150317_000841	{@st59}Enter filter{/}	
+UI_20150317_000842	{ol}Property Value	
+UI_20150317_000843	Class List	
+UI_20150317_000844	Apply to XML	
+UI_20150317_000845	{#FFFFFF}{ds}Log	
+UI_20150317_000846	{#FFFFFF}{ds}View all properties	
+UI_20150317_000847	Enter a keyword to search	
+UI_20150317_000848	All attribute values	
+UI_20150317_000849	{ol}Name	
+UI_20150317_000850	{ol}Value	
+UI_20150317_000851	Rogue	
+UI_20150317_000852	{ol}Revision	
+UI_20150317_000853	{ol}Rogue	
+UI_20150317_000854	Class list	
+UI_20150317_000855	XML Conversion	
+UI_20150317_000856	{ol}Class name	
+UI_20150317_000857	{ol}Property Name	
+UI_20150317_000858	{ol}Changed value	
+UI_20150317_000859	{ol}Apply	
+UI_20150317_000860	Open Folder	
+UI_20150317_000861	Check All	
+UI_20150317_000862	History	
+UI_20150317_000863	Rollback Value	
+UI_20150317_000864	{ol}Select item	
+UI_20150317_000865	Enter the name you want to search	
+UI_20150317_000866	{@st42}Confirm{/}	
+UI_20150317_000867	{@st41}Create UI{/}	
+UI_20150317_000868	{ol}Frame	
+UI_20150317_000869	{@st41}Frame{/}	
+UI_20150317_000870	{@st41}Button{/}	
+UI_20150317_000871	{@st41}Text{/}	
+UI_20150317_000872	{@st42b}Normal{img btn_close}	
+UI_20150317_000873	{@st42b}Auction{img btn_close}	
+UI_20150317_000874	{@st41}Set map location{/}	
+UI_20150317_000875	{@st41}Rename{/}	
+UI_20150317_000876	{@st59}Enter the words you want to filter{/}	
+UI_20150317_000877	{@st41}Create{/}	
+UI_20150317_000878	{@st56}XML save{/}	
+UI_20150317_000879	{@st56}Reset{/}	
+UI_20150317_000880	{@st56}Attribute{/}	
+UI_20150317_000881	{@st56}Value{/}	
+UI_20150317_000882	{@st42}Content{/}	
+UI_20150317_000883	{@st41}Undo{/}	
+UI_20150317_000884	{@st41}Save all{/}	
+UI_20150317_000885	{@st41}Open XML{/}	
+UI_20150317_000886	{@st42b}Fixed Skill : 0{/}	
+UI_20150317_000887	{@st42b}Fixed skill : %s{/}	
+UI_20150317_000888	{@st42b}Mouse homing{/}	
+UI_20150317_000889	{@st42b}Skill name{/}	
+UI_20150317_000890	{@st41}Monster list{/}	
+UI_20150317_000891	{@st41}Performance Manager{/}	
+UI_20150317_000892	{ol}Select Quest	
+UI_20150317_000893	Enter quest name to search	
+UI_20150317_000894	{ol}Select map	
+UI_20150317_000895	Enter map name to search	
+UI_20150317_000896	{@st42}Current map{/}	
+UI_20150317_000897	{ol}Map name	
+UI_20150317_000898	{ol}Coordinates	
+UI_20150317_000899	{@st41}Change quest rewards{/}	
+UI_20150317_000900	{@st59}Enter quest to search{/}	
+UI_20150317_000901	{@st59}Enter the item to search for{/}	
+UI_20150317_000902	{@st42}EXP	
+UI_20150317_000903	{ol}Basic rewards	
+UI_20150317_000904	{ol}Quantity	
+UI_20150317_000905	{ol}Additional rewards	
+UI_20150317_000906	{@st45}Frequently used cheats	
+UI_20150317_000907	{@st41}Skills map{/}	
+UI_20150317_000908	{@st42}Ability{/}	
+UI_20150317_000909	{@st42}Warrior{/}	
+UI_20150317_000910	{@st42}Wizard{/}	
+UI_20150317_000911	{@st42}Archer{/}	
+UI_20150317_000912	{@st42}Monk{/}	
+UI_20150317_000913	{@st42}Sorcerer{/}	
+UI_20150317_000914	{@st41}Skill{/}	
+UI_20150317_000915	{@st59}XML load{/}	
+UI_20150317_000916	{@st41}Load{/}	
+UI_20150317_000917	{@st59}Save as XML{/}	
+UI_20150317_000918	{@st59}Reset Open Skill map{/}	
+UI_20150317_000919	{@st41}Reset{/}	
+UI_20150317_000920	{@st59}Reset all Skill  maps{/}	
+UI_20150317_000921	{@st41}Reset All{/}	
+UI_20150317_000922	{S18}Remove script	
+UI_20150317_000923	{S18}String argument	
+UI_20150317_000924	{s18}string 1 argument	
+UI_20150317_000925	{s18}string 2 argument	
+UI_20150317_000926	{s18}Max skill level	
+UI_20150317_000927	{@st59}Remove script type box{/}	
+UI_20150317_000928	{@st59}Remove script argument{/}	
+UI_20150317_000929	{@st59}Max skill level{/}	
+UI_20150317_000930	{@st59}Save Property{/}	
+UI_20150317_000931	{@st41}Save Property{/}	
+UI_20150317_000932	{@st44}UI List{/}	
+UI_20150317_000933	{ds}Addon List	
+UI_20150317_000934	{ds}Fixed frame list	
+UI_20150317_000935	{@st42}UI list{/}	
+UI_20150317_000936	{@st59}show UI List{/}	
+UI_20150317_000937	{@st42}Adjust location{/}	
+UI_20150317_000938	{@st59}Adjust location{/}	
+UI_20150317_000939	{@st42}Edit Property{/}	
+UI_20150317_000940	{@st59}Edit property{/}	
+UI_20150317_000941	{@st42}Save{/}	
+UI_20150317_000942	{@st59}Save{/}	
+UI_20150317_000943	{@st44}Edit UI properties{/}	
+UI_20150317_000944	{@St59}Character Selection{/}	
+UI_20150317_000945	{@St59}Logout{/}	
+UI_20150317_000946	{@St59}Settings{/}	
+UI_20150317_000947	{@St59}Quit{/}	
+UI_20150317_000948	{@st43}Lodge Settings{/}	
+UI_20150317_000949	{@st59}Close{/}	
+UI_20150317_000950	{@St42_b}{s18}{#f5c384}Team Name{/}	
+UI_20150317_000951	{@st59}Enter Team name {/}	
+UI_20150317_000952	{@st59}Save Team Name{/}	
+UI_20150317_000953	Provisional Delete	
+UI_20150317_000954	{@St59}Close{/}	
+UI_20150317_000955	{@St43}Lodge Decorating{/}	
+UI_20150317_000956	{@St41b}Theme{/}	
+UI_20150317_000957	{@St41b}Item Arrangement{/}	
+UI_20150317_000958	{@St41b}Name	
+UI_20150317_000959	{@St41b}Price	
+UI_20150317_000960	{@St41b}State	
+UI_20150317_000961	{@St44}New Character{/}	
+UI_20150317_000962	{@St41b}{s22}Select Character Class{/}	
+UI_20150317_000963	{@St41b}Return{/}	
+UI_20150317_000964	{@St59}Go back to your Lodge without creating a character	
+UI_20150317_000965	Change Character	
+UI_20150317_000966	{@St41}Character{/}	
+UI_20150317_000967	{@St59}Rotate clockwise{/}	
+UI_20150317_000968	{@St59}Rotate counterclockwise{/}	
+UI_20150317_000969	{@St43b}Character Rotation{/}	
+UI_20150317_000970	{@st43}Character Name{/}	
+UI_20150317_000971	Enter a name{@st59} {/}	
+UI_20150317_000972	{@St43b}Choose Gender{/}	
+UI_20150317_000973	{@St59}Female{/}	
+UI_20150317_000974	{@St59}Male{/}	
+UI_20150317_000975	{@st43b}Choose Hairstyle{/}	
+UI_20150317_000976	{@st59}Hairstyle 1{/}	
+UI_20150317_000977	{@st59}Hairstyle 2{/}	
+UI_20150317_000978	{@St59}Hairstyle 3{/}	
+UI_20150317_000979	{@st59}Hairstyle 4{/}	
+UI_20150317_000980	{@st59}Hairstyle 5{/}	
+UI_20150317_000981	{@st59}Hairstyle 6{/}	
+UI_20150317_000982	{@st59}Hairstyle 7{/}	
+UI_20150317_000983	{@st59}Hairstyle 8{/}	
+UI_20150317_000984	{@st59}Hairstyle 9{/}	
+UI_20150317_000985	{@st59}Hairstyle 10{/}	
+UI_20150317_000986	{@St43b}Select Class{/}	
+UI_20150317_000987	{@st59}Swordsman{/}	
+UI_20150317_000988	{@st59}Wizard{/}	
+UI_20150317_000989	{@st59}Archer{/}	
+UI_20150317_000990	{@st59}Cleric{/}	
+UI_20150317_000991	{@St41b}Visit Barrack {/}	
+UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}	
+UI_20150317_000993	{@St41b}Logout{/}	
+UI_20150317_000994	{@St59}Move to the login screen{/}	
+UI_20150317_000995	{@St41b}Exit Game{/}	
+UI_20150317_000996	{@St59}Exit Tree of Savior{/}	
+UI_20150317_000997	{@st41b}Select Channel{/}	
+UI_20150317_000998	{@st43}Enter{/}	
+UI_20150317_000999	{@St59}Start the game with the selected character{/}	
+UI_20150317_001000	{@St43}{s26}Team Name{/}	
+UI_20150317_001001	{@st59}Team Name{/}	
+UI_20150317_001002	{@st41b}Change Team Name{/}	
+UI_20150317_001003	{@st59}Change Team Name{/}	
+UI_20150317_001004	{@St41}Companion{/}	
+UI_20150317_001005	Chat Drag	
+UI_20150317_001006	{@St44}New Dialog Name{/}	
+UI_20150317_001007	{@St42}Change{/}	
+UI_20150317_001008	{@St44}New Window Name{/}	
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}	
+UI_20150317_001010	{@St59}Create a character{/}	
+UI_20150317_001011	{@St59}Cancel character creation{/}	
+UI_20150317_001012	{@St59}Close{/}	
+UI_20150317_001013	{@St59}Create a team with the entered name{/}	
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!	
+UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}	
 UI_20150317_001016	Latar Belakang Loading	로딩 배경
 UI_20150317_001017	Tip	팁
 UI_20150317_001018	Game Tips	게임팁
@@ -2729,7 +3286,7 @@ UI_20170912_002728	{img test_cooltime 24 24}Point direset pada hari pertama seti
 UI_20170912_002729	{@st41b}Top Ranks	{@st41b}상위 랭킹
 UI_20170912_002730	{@st41b}Ranks Terdekat	{@st41b}내 주변 랭킹
 UI_20170912_002731	{@st43b}Total %s Points	{@st43b}총 획득 점수 %s점
-UI_20170912_002732	{@st66b}Monster Lainnya		{@st66b}몬스터 더 보기
+UI_20170912_002732	{@st66b}Monster Lainnya	
 UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}
 UI_20170912_002734	Defeated	처치횟수
 UI_20170912_002735	{@st41b}Area	{@st41b}서식지역
@@ -3773,12 +4330,12 @@ UI_20190104_003772	{@41b}Completion	{@41b}달성도
 UI_20190104_003773	{@st59}Mendaftarkan barang di collection.{/}	{@st59}컬렉션 아이템을 등록합니다.{/}
 UI_20190104_003774	Spot Area	점령지역이름
 UI_20190104_003775	Kota	도시이름
-UI_20190104_003776	{@sti7}{s30}{ds}Temukan Class Kamu {@sti7}{s30}{ds}클래스 선택 가이드
+UI_20190104_003776	{@sti7}{s30}{ds}Temukan Class Kamu {@sti7}{s30}{ds}클래스 선택 가이드	
 UI_20190104_003777	{@st66d_y}Ketahui class apa yang tepat untukmu?{/}{nl}                                                                         Ambil tes ini dan temukan class mana yang sesuai dengan gaya bermainmu!	{@st66d_y}어떤 직업을 골라야할지 고민된다면?{/}{nl}                                                                         적성검사를통해 내 플레이타입에{nl}맞는 직업 순위를 알아보세요!
 UI_20190104_003778	{@st41b}{s16}Move	{@st41b}{s16}이동
 UI_20190104_003779	{s16}{b}{ol}{ds}Details >>	{s16}{b}{ol}{ds}자세히 보기>>
-UI_20190104_003780	Nama Class 직업 이름
-UI_20190104_003781	Ubah class yang dipilih. 해당 클래스를 변경합니다.
+UI_20190104_003780	Nama Class 직업 이름	
+UI_20190104_003781	Ubah class yang dipilih. 해당 클래스를 변경합니다.	
 UI_20190104_003782	Kamu dapat mengubah class yang diperlukan untuk salah satu class kamu saat ini.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.
 UI_20190104_003783	Party Member Name	파티원이름이에요
 UI_20190104_003784	{@st43b}{s18}Skills	{@st43b}{s18}스킬
@@ -3835,8 +4392,8 @@ UI_20190419_003834	Ichor Transmutation	아이커 연성
 UI_20190419_003835	Transmute	연성
 UI_20190419_003836	{@st43b}{s18}Transmutation Success Rate: %s%	{@st43b}{s18}연성 성공 확률 : %s%
 UI_20190419_003837	{@st43b}{s18}Ichor Stats	{@st43b}{s18}아이커 옵션
-UI_20190419_003838	{s14}※ Kamu dapat mengumpulkan maksimum 20.000 poin, direset setiap 3 bulan (1 Jan, Apr, Jul dan Okt pukul 00:00, waktu server). {s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 00시)마다 초기화 됩니다.
-UI_20190419_003839	{@st66d}Kembali ke Kota{/} {@st66d}마을로 돌아가기{/}
+UI_20190419_003838	{s14}※ Kamu dapat mengumpulkan maksimum 20.000 poin, direset setiap 3 bulan (1 Jan, Apr, Jul dan Okt pukul 00:00, waktu server). {s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 00시)마다 초기화 됩니다.	
+UI_20190419_003839	{@st66d}Kembali ke Kota{/} {@st66d}마을로 돌아가기{/}	
 UI_20190419_003840	{@st43}{s26}Badges Acquired: %s	{@st43}{s26}습득 증표 : %s 개 획득
 UI_20190419_003841	{@st66d_y}{s22}Ranking Bonus + %s Badges	{@st66d_y}{s22}랭킹 보너스 증표 + %s
 UI_20190419_003842	{@st66b}Ranking{/}	{@st66b}순위{/}
@@ -3844,7 +4401,7 @@ UI_20190419_003843	{@st66b}Team Name{/}	{@st66b}팀명{/}
 UI_20190419_003844	{@st66b}Points{/}	{@st66b}점수{/}
 UI_20190419_003845	{@st66b}Kembali ke Vedas Plateau. (30 detik){/}	{@st66b}잠시 후 베다 고원으로 귀환됩니다. (30초){/}
 UI_20190419_003846	Barang ini akan hilang dari inventory kamu{nl}dan %s akan direset.%s{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.%s{/}
-UI_20190419_003847	{@st66b}Pemain peringkat TOP 3 per class tree mendapatkan{nl}{#003997}"Dimensional Incense Burner"{/} untuk peringkat minggu sebelumnya.{nl}Pemain yang berpartisipasi mendapatkan{nl}{#003997}"Remnants of Bernice Coins"{/} sesuai skor mereka.{nl} {nl}{s13}Dimulai setiap hari Senin jam 06:00 (waktu server).{nl} {nl}{s13}{#8e0000}Pemain TOP 3 dengan multiple class tree hanya mendapatkan hadiah sesuai skor tertinggi mereka.{nl} {nl}Jika terjadi pemain berikutnya yang telah mencapai peringkat TOP 3 termasuk class tree di dalamnya akan mendapatkan hadiah. {@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.
+UI_20190419_003847	{@st66b}Pemain peringkat TOP 3 per class tree mendapatkan{nl}{#003997}"Dimensional Incense Burner"{/} untuk peringkat minggu sebelumnya.{nl}Pemain yang berpartisipasi mendapatkan{nl}{#003997}"Remnants of Bernice Coins"{/} sesuai skor mereka.{nl} {nl}{s13}Dimulai setiap hari Senin jam 06:00 (waktu server).{nl} {nl}{s13}{#8e0000}Pemain TOP 3 dengan multiple class tree hanya mendapatkan hadiah sesuai skor tertinggi mereka.{nl} {nl}Jika terjadi pemain berikutnya yang telah mencapai peringkat TOP 3 termasuk class tree di dalamnya akan mendapatkan hadiah. {@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
 UI_20190419_003848	{@st66b}Auto Skill Targeting{/}	{@st66b}스킬 위치 지정 타겟팅{/}
 UI_20190611_003849	{@st43}{s22}Lihat Lokasi{/}	{@st43}{s22}위치 보기{/}
 UI_20190611_003850	{@st59}Tutup Lokasi{/}	{@st59}위치 보기 창을 닫습니다{/}
@@ -3899,21 +4456,21 @@ UI_20190612_003898	{s16}{ol} Hethran Badge Quests	{s16}{ol}증표 퀘스트
 UI_20190612_003899	{s16}{ol} Tracking Quests	{s16}{ol}추적 퀘스트
 UI_20190621_003900	{@st66b}Jumlah Item Trade dan Entry Limits akan direset setiap maintenance mingguan.{/}	{@st66b}탈트 및 실버 입장 횟수는 매주 화요일 점검 시에 초기화 됩니다.{/}
 UI_20190621_003901	{@st43}{s22}Victory Cube{/}	{@st43}{s22}이벤트: 승부 큐브{/}
-UI_20190802_003902	{@st42}{s20}Challenger's League	{@st42}{s20}챌린저스 리그				
-UI_20190802_003903	{@st42}{s20}Champion's League	{@st42}{s20}챔피언스 리그	UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택	
-UI_20190802_003904	{@st41b}{s16}{b}Champion's League	{@st41b}{s16}{b}챔피언스 리그				
-UI_20190802_003905	{@st41b}{s16}{b}Challenger's League	{@st41b}{s16}{b}챌린저스 리그				
-UI_20190802_003906	Regional League	지역 리그				
-UI_20190802_003907	Unequip Ichor (Fixed)	아이커 장착 해제(고정옵션)				
-UI_20190802_003908	{@st43b}{s18}Ichor Stats (Fixed)	{@st43b}{s18}아이커 옵션(고정옵션)	UI_20190419_003837	{@st43b}{s18}Ichor Stats	{@st43b}{s18}아이커 옵션	
-UI_20190802_003909	Unequip Ichor (Random)	아이커 장착 해제(랜덤옵션)				
-UI_20190802_003910	{@st43b}{s18}Ichor Stats (Random)	{@st43b}{s18}아이커 옵션(랜덤옵션)				
-UI_20190802_003911	Click on confirm to return.	확인을 누르시면 원래 지역으로 이동합니다.	UI_20161005_002356	Confirm to move out of the tower.	확인을 누르시면 탑 밖으로 이동합니다.	
-UI_20190802_003912	{@st42b}You can dash by double-tapping a directional key{/}	{@st42b}방향키를 빠르게 두번 입력하여 질주할 수 있습니다{/}	UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}	{@st42b}전사 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	
-UI_20190802_003913	{@st41b}{s18}Current %s Enchant Jewels: %s	{@st41b}{s18}현재 %s 인챈트 쥬얼 보유 개수: %s개	UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개	
-UI_20190802_003914	{@st66}{s18}{b}Consumes %sx %s Enchant Jewel(s).	{@st66}{s18}{b} %s 인챈트 쥬얼 %s개가 소비됩니다.	UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.	
-UI_20190802_003915	Cannot be dismantled	분해 불가				
-UI_20190802_003916	Regional League	지역리그				
-UI_20190802_003917	{@st42}{s16}Retrieve	{@st42}{s16}수령				
-UI_20190828_003918	{@st66b}Dead Parts	{@st66b}데드 파츠 적용				
-UI_20190828_003919	{@st66b}Item Drop Effects{/}	{@st66b}아이템 드랍 이펙트 사용{/}				
+UI_20190802_003902	{@st42}{s20}Challenger's League	{@st42}{s20}챌린저스 리그
+UI_20190802_003903	{@st42}{s20}Champion's League	{@st42}{s20}챔피언스 리그
+UI_20190802_003904	{@st41b}{s16}{b}Champion's League	{@st41b}{s16}{b}챔피언스 리그
+UI_20190802_003905	{@st41b}{s16}{b}Challenger's League	{@st41b}{s16}{b}챌린저스 리그
+UI_20190802_003906	Regional League	지역 리그
+UI_20190802_003907	Unequip Ichor (Fixed)	아이커 장착 해제(고정옵션)
+UI_20190802_003908	{@st43b}{s18}Ichor Stats (Fixed)	{@st43b}{s18}아이커 옵션(고정옵션)
+UI_20190802_003909	Unequip Ichor (Random)	아이커 장착 해제(랜덤옵션)
+UI_20190802_003910	{@st43b}{s18}Ichor Stats (Random)	{@st43b}{s18}아이커 옵션(랜덤옵션)
+UI_20190802_003911	Click on confirm to return.	확인을 누르시면 원래 지역으로 이동합니다.
+UI_20190802_003912	{@st42b}You can dash by double-tapping a directional key{/}	{@st42b}방향키를 빠르게 두번 입력하여 질주할 수 있습니다{/}
+UI_20190802_003913	{@st41b}{s18}Current %s Enchant Jewels: %s	{@st41b}{s18}현재 %s 인챈트 쥬얼 보유 개수: %s개
+UI_20190802_003914	{@st66}{s18}{b}Consumes %sx %s Enchant Jewel(s).	{@st66}{s18}{b} %s 인챈트 쥬얼 %s개가 소비됩니다.
+UI_20190802_003915	Cannot be dismantled	분해 불가
+UI_20190802_003916	Regional League	지역리그
+UI_20190802_003917	{@st42}{s16}Retrieve	{@st42}{s16}수령
+UI_20190828_003918	{@st66b}Dead Parts	{@st66b}데드 파츠 적용
+UI_20190828_003919	{@st66b}Item Drop Effects{/}	{@st66b}아이템 드랍 이펙트 사용{/}
